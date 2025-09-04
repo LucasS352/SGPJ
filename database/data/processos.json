@@ -1,0 +1,3882 @@
+[
+    {
+        "id": 1,
+        "numero_processo": "10571053520258260100",
+        "nome_reu": "EXCLUSIVE GIRL COSMETICOS LTDA",
+        "cpf_cnpj_reu": "49650136000136",
+        "valor_causa": "R$ 106.439,67",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 2,
+        "numero_processo": "10438588420258260100",
+        "nome_reu": "CARLOS BUENO QUIRINO JUNIOR",
+        "cpf_cnpj_reu": "00205876862",
+        "valor_causa": "R$ 106.027,90",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 3,
+        "numero_processo": "10438718320258260100",
+        "nome_reu": "VERONA CONSULTORIA LTDA. (ANTIGA COMERCIAL DE ALIMENTOS RED LTDA)",
+        "cpf_cnpj_reu": "11189392000103",
+        "valor_causa": "R$ 458.224,90",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 4,
+        "numero_processo": "10432681020258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 110.026,18",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 5,
+        "numero_processo": "11140420220248260100",
+        "nome_reu": "WALLACE DE OLIVEIRA GUIRELLI",
+        "cpf_cnpj_reu": "02723344800",
+        "valor_causa": "R$ 263.860,99",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 6,
+        "numero_processo": "10135272220258260100",
+        "nome_reu": "ARTBELA COMERCIAL & DISTRIBUIDORA DE DOCES & ALIMENTOS LTDA",
+        "cpf_cnpj_reu": "16879650000199",
+        "valor_causa": "R$ 113.480,63",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 7,
+        "numero_processo": "10113992920258260100",
+        "nome_reu": "YOUNG AE SONG KIM COREANA",
+        "cpf_cnpj_reu": "11876613840",
+        "valor_causa": "R$ 181.889,29",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 8,
+        "numero_processo": "10112130620258260100",
+        "nome_reu": "GENTE PEQUENA COMERCIO E CONFECCOES LTDA",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 330.737,85",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 9,
+        "numero_processo": "10064133220258260100",
+        "nome_reu": "MANOEL FABIANO MULATO DA SILVA",
+        "cpf_cnpj_reu": "01226189474",
+        "valor_causa": "R$ 130.081,50",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 10,
+        "numero_processo": "10048466320258260100",
+        "nome_reu": "LAERTE PAIVA LEITE",
+        "cpf_cnpj_reu": "11061734498",
+        "valor_causa": "R$ 245.287,25",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 11,
+        "numero_processo": "10048267220258260100",
+        "nome_reu": "EBRAHEM OKLA",
+        "cpf_cnpj_reu": "23897169894",
+        "valor_causa": "R$ 203.405,66",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 12,
+        "numero_processo": "10029204720258260100",
+        "nome_reu": "RESTAURANTE DIVINA GULA DO BRAS LTDA",
+        "cpf_cnpj_reu": "32181275000165",
+        "valor_causa": "R$ 83.068,69",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 13,
+        "numero_processo": "11988702820248260100",
+        "nome_reu": "SIMPLE FOOD COMPANY ALIMENTAÇÃO LTDA",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 199.274,80",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 14,
+        "numero_processo": "11978405520248260100",
+        "nome_reu": "MARIA ANGELICA NOGUEIRA ROSSI",
+        "cpf_cnpj_reu": "41428429867",
+        "valor_causa": "R$ 198.043,42",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 15,
+        "numero_processo": "11786743720248260100",
+        "nome_reu": "MINI MERCADO SANTA MARGARIDA - LTDA",
+        "cpf_cnpj_reu": "11694605000146",
+        "valor_causa": "R$ 195.444,03",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 16,
+        "numero_processo": "11617825320248260100",
+        "nome_reu": "SHOP\\'S PASTEL LTDA. - M.E.",
+        "cpf_cnpj_reu": "53942827000180",
+        "valor_causa": "R$ 277.172,68",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 17,
+        "numero_processo": "11617192820248260100",
+        "nome_reu": "GIULIANA TOMMASIELLO",
+        "cpf_cnpj_reu": "25250486878",
+        "valor_causa": "R$ 207.756,00",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 18,
+        "numero_processo": "11434954220248260100",
+        "nome_reu": "JOSE AIRTON LOPES",
+        "cpf_cnpj_reu": "02265381845",
+        "valor_causa": "R$ 164.067,68",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 19,
+        "numero_processo": "11434780620248260100",
+        "nome_reu": "LUCAS DANTAS GUERRA DE AGUILAR",
+        "cpf_cnpj_reu": "45206356832",
+        "valor_causa": "R$ 185.935,63",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 20,
+        "numero_processo": "11340319120248260100",
+        "nome_reu": "CAROLINE FELICISSIMO DE MELO",
+        "cpf_cnpj_reu": "01302723618",
+        "valor_causa": "R$ 181.068,15",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 21,
+        "numero_processo": "11340292420248260100",
+        "nome_reu": "M2 COMERCIO DE MÁQUINAS LTDA (ANTIGA PAMFER COMERCIO DE MAQUINAS EM GERAL LTDA)",
+        "cpf_cnpj_reu": "28732677000133",
+        "valor_causa": "R$ 135.555,42",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 22,
+        "numero_processo": "11307823520248260100",
+        "nome_reu": "CONEX SERVICOS LTDA (ANTIGA CONEX COMERCIAL E DISTRIBUIDORA LTDA)",
+        "cpf_cnpj_reu": "37177146000117",
+        "valor_causa": "R$ 297.356,11",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 23,
+        "numero_processo": "11084740520248260100",
+        "nome_reu": "ELISEU CORREA",
+        "cpf_cnpj_reu": "17946402821",
+        "valor_causa": "R$ 183.200,87",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 24,
+        "numero_processo": "10806922320248260100",
+        "nome_reu": "RENATA GIRASOLI DE ANDRADE",
+        "cpf_cnpj_reu": "32671837828",
+        "valor_causa": "R$ 208.785,30",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 25,
+        "numero_processo": "10754412420248260100",
+        "nome_reu": "INVESTBENS ASSESSORIA & INTERMEDIACAO DE NEGOCIOS LTDA",
+        "cpf_cnpj_reu": "11436830000182",
+        "valor_causa": "R$ 71.874,90",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 26,
+        "numero_processo": "10731557320248260100",
+        "nome_reu": "EDILEUZA TEIXEIRA DA SILVA DE JESUS",
+        "cpf_cnpj_reu": "21656134349",
+        "valor_causa": "R$ 150.389,00",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 27,
+        "numero_processo": "10054754720248260011",
+        "nome_reu": "VAL PORT IMPORTACAO E EXPORTACAO EIRELI",
+        "cpf_cnpj_reu": "34566162000103",
+        "valor_causa": "R$ 58.124,04",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 28,
+        "numero_processo": "10275674320248260100",
+        "nome_reu": "HUMAN AFFECTION GESTAO EM ENFERMAGEM LTDA",
+        "cpf_cnpj_reu": "26015706000110",
+        "valor_causa": "R$ 806.271,31",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 29,
+        "numero_processo": "10251891720248260100",
+        "nome_reu": "ESMERALDA AGÊNCIA DE VIAGENS E TURISMO LTDA",
+        "cpf_cnpj_reu": "07304365000159",
+        "valor_causa": "R$ 119.272,33",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 30,
+        "numero_processo": "10182918520248260100",
+        "nome_reu": "TRON COMERCIO DE ARTIGOS DE INFORMATICA",
+        "cpf_cnpj_reu": "24347099000160",
+        "valor_causa": "R$ 309.806,39",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 31,
+        "numero_processo": "10127125920248260100",
+        "nome_reu": "ENRICO GIGLIO DE OLIVEIRA",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 110.497,41",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 32,
+        "numero_processo": "10125506420248260100",
+        "nome_reu": "DAVID JOSÉ PEDALINI",
+        "cpf_cnpj_reu": "87390078804",
+        "valor_causa": "R$ 230.620,80",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 33,
+        "numero_processo": "11814045520238260100",
+        "nome_reu": "LOTUS IMPORTAÇÃO",
+        "cpf_cnpj_reu": "23596905000171",
+        "valor_causa": "R$ 738.291,46",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 34,
+        "numero_processo": "11717349020238260100",
+        "nome_reu": "DIVONALDO MARQUES BARROS",
+        "cpf_cnpj_reu": "78416213534",
+        "valor_causa": "R$ 207.587,32",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 35,
+        "numero_processo": "11622548820238260100",
+        "nome_reu": "SERGIO GOMES DE AZEVEDO PECANHA",
+        "cpf_cnpj_reu": "17105486813",
+        "valor_causa": "R$ 606.748,01",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 36,
+        "numero_processo": "11423290920238260100",
+        "nome_reu": "TUAIS COMO ENTABULADO ENTRE AS PARTES",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 204.155,48",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 37,
+        "numero_processo": "11331591320238260100",
+        "nome_reu": "BAR E RESTAURANTE KAYOMI LTDA",
+        "cpf_cnpj_reu": "01372118000103",
+        "valor_causa": "R$ 428.899,28",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 38,
+        "numero_processo": "11302578720238260100",
+        "nome_reu": "THAWAN GONCALVES DIEGO",
+        "cpf_cnpj_reu": "40804016801",
+        "valor_causa": "R$ 139.211,49",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 39,
+        "numero_processo": "11306172220238260100",
+        "nome_reu": "OLAVO PLESSMANN BAYEUX",
+        "cpf_cnpj_reu": "12559177846",
+        "valor_causa": "R$ 296.561,39",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 40,
+        "numero_processo": "10936091120238260100",
+        "nome_reu": "AG ELETRONICOS E VARIEDADES LTDA",
+        "cpf_cnpj_reu": "41934154000138",
+        "valor_causa": "R$ 144.717,88",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 41,
+        "numero_processo": "11154713820238260100",
+        "nome_reu": "ATLANTIS SISTEMAS DE GESTAO DO BRASIL LT",
+        "cpf_cnpj_reu": "21109238000120",
+        "valor_causa": "R$ 172.847,20",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 42,
+        "numero_processo": "10868061220238260100",
+        "nome_reu": "W.M.S. CONFECCOES LTDA",
+        "cpf_cnpj_reu": "43069016000163",
+        "valor_causa": "R$ 366.944,09",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 43,
+        "numero_processo": "10768211920238260100",
+        "nome_reu": "CHARLLES MARQUES DA SILVA",
+        "cpf_cnpj_reu": "05176155923",
+        "valor_causa": "R$ 62.772,23",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 44,
+        "numero_processo": "10691694820238260100",
+        "nome_reu": "RELAX LOUNGE COMÉRCIO DE TABACARIA ATACADISTA EIRELI",
+        "cpf_cnpj_reu": "23408497000187",
+        "valor_causa": "R$ 248.383,78",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 45,
+        "numero_processo": "10677785820238260100",
+        "nome_reu": "TAREK ELETRONICOS EIRELI",
+        "cpf_cnpj_reu": "43182850000160",
+        "valor_causa": "R$ 107.182,07",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 46,
+        "numero_processo": "10597033020238260100",
+        "nome_reu": "HAIR BY HAIR EIRELI",
+        "cpf_cnpj_reu": "25272544000133",
+        "valor_causa": "R$ 170.269,86",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 47,
+        "numero_processo": "10507403320238260100",
+        "nome_reu": "THYMUS UPFRAME CONSULTORIA EM MARCA LTDA",
+        "cpf_cnpj_reu": "31343498000119",
+        "valor_causa": "R$ 759.479,35",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 48,
+        "numero_processo": "10461077620238260100",
+        "nome_reu": "WALLACE DE OLIVEIRA GUIRELLI",
+        "cpf_cnpj_reu": "02723344800",
+        "valor_causa": "R$ 179.274,89",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 49,
+        "numero_processo": "10412378520238260100",
+        "nome_reu": "PRIME WORK SEGURANÇA LTDA",
+        "cpf_cnpj_reu": "05018716000210",
+        "valor_causa": "R$ 760.344,73",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 50,
+        "numero_processo": "10410888920238260100",
+        "nome_reu": "MARIA NARA REGIS DIOGENES",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 279.853,69",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 51,
+        "numero_processo": "10387816520238260100",
+        "nome_reu": "LIANGHUA DING",
+        "cpf_cnpj_reu": "24039368800",
+        "valor_causa": "R$ 206.391,97",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 52,
+        "numero_processo": "10148633220238260100",
+        "nome_reu": "A L COMERCIO DE ELETRONICOS EIRELI",
+        "cpf_cnpj_reu": "33753858000186",
+        "valor_causa": "R$ 90.929,89",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 53,
+        "numero_processo": "10148469320238260100",
+        "nome_reu": "FFX ASSESSORIA EM COBRANCAS LTDA",
+        "cpf_cnpj_reu": "18604015000124",
+        "valor_causa": "R$ 66.302,53",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 54,
+        "numero_processo": "11415829320228260100",
+        "nome_reu": "REVOLUTION ELETRONICOS EIRELI",
+        "cpf_cnpj_reu": "33301183000134",
+        "valor_causa": "R$ 152.226,07",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 55,
+        "numero_processo": "11369571620228260100",
+        "nome_reu": "TEIXEIRA INDUSTRIA E COMÉRCIO DE ALIMENTOS EIRELI",
+        "cpf_cnpj_reu": "35223386000185",
+        "valor_causa": "R$ 91.963,66",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 56,
+        "numero_processo": "11333915920228260100",
+        "nome_reu": "COMÉRCIO DE TECIDOS E CONFECÇÕES DIOGENES EIRELI",
+        "cpf_cnpj_reu": "32459963000144",
+        "valor_causa": "R$ 195.596,32",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 57,
+        "numero_processo": "11284636520228260100",
+        "nome_reu": "LAGEMA RESTAURANTE LTDA ME",
+        "cpf_cnpj_reu": "13646188000191",
+        "valor_causa": "R$ 81.182,60",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 58,
+        "numero_processo": "11280270920228260100",
+        "nome_reu": "AQUARELLA TECIDOS EIRELI",
+        "cpf_cnpj_reu": "26881210000120",
+        "valor_causa": "R$ 125.464,86",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 59,
+        "numero_processo": "11176446920228260100",
+        "nome_reu": "CARLA PACHECO",
+        "cpf_cnpj_reu": "29378101879",
+        "valor_causa": "R$ 324.275,90",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 60,
+        "numero_processo": "11170419320228260100",
+        "nome_reu": "ITS COM DE PECAS E EQUIPAMENTOS LTDA EPP",
+        "cpf_cnpj_reu": "01255071000106",
+        "valor_causa": "R$ 431.868,58",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 61,
+        "numero_processo": "11148758820228260100",
+        "nome_reu": "SWEET FRIENDS COMERCIO DE ALIMENTOS LTDA",
+        "cpf_cnpj_reu": "14697598000124",
+        "valor_causa": "R$ 347.825,08",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 62,
+        "numero_processo": "11141751520228260100",
+        "nome_reu": "MXM COMERCIAL EIRELI ME",
+        "cpf_cnpj_reu": "24579489000166",
+        "valor_causa": "R$ 189.268,90",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 63,
+        "numero_processo": "11056435220228260100",
+        "nome_reu": "SERGIO AUGUSTO MAXIMIANO SILVA",
+        "cpf_cnpj_reu": "13201335843",
+        "valor_causa": "R$ 87.844,18",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 64,
+        "numero_processo": "11055326820228260100",
+        "nome_reu": "ABS SOM E ACESSORIOS AUTOMOTIVOS LTDA",
+        "cpf_cnpj_reu": "30092586000122",
+        "valor_causa": "R$ 140.602,55",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 65,
+        "numero_processo": "10921449820228260100",
+        "nome_reu": "NAJA COMÉRCIO E CONFECÇÃO LTDA ME",
+        "cpf_cnpj_reu": "16914684000177",
+        "valor_causa": "R$ 56.862,95",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 66,
+        "numero_processo": "10876275020228260100",
+        "nome_reu": "KAIQUE LEMES DOMINGUES PET SHOP",
+        "cpf_cnpj_reu": "35961148000177",
+        "valor_causa": "R$ 165.597,15",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 67,
+        "numero_processo": "10691342520228260100",
+        "nome_reu": "TUAIS COMO ENTABULADO ENTRE AS PARTES",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 165.949,52",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 68,
+        "numero_processo": "10349573520228260100",
+        "nome_reu": "RONALDO FURLAN ESTORARI",
+        "cpf_cnpj_reu": "21701631822",
+        "valor_causa": "R$ 305.599,37",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 69,
+        "numero_processo": "10050952520228260001",
+        "nome_reu": "KONIA TEXTIL EIRELI",
+        "cpf_cnpj_reu": "16927606000107",
+        "valor_causa": "R$ 998.977,58",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 70,
+        "numero_processo": "10308330920228260100",
+        "nome_reu": "HANNA COMERCIO DE IMPORTACAO E EXPORTAÇÃO EIRELI",
+        "cpf_cnpj_reu": "33678668000141",
+        "valor_causa": "R$ 199.706,50",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 71,
+        "numero_processo": "10793889120218260100",
+        "nome_reu": "COMERCIAL MJ DE EMBALAGENS EIRELI EPP",
+        "cpf_cnpj_reu": "22978361000140",
+        "valor_causa": "R$ 19.158,57",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 72,
+        "numero_processo": "10638480320218260100",
+        "nome_reu": "TIO GIMBA ALIMENTAÇÃO LTDA - EPP",
+        "cpf_cnpj_reu": "18044860000192",
+        "valor_causa": "R$ 145.181,45",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 73,
+        "numero_processo": "10427081020218260100",
+        "nome_reu": "PAPEL BRASIL COMERCIO DE PAPEIS E PRODUTOS DE INFORMATICA LTDA",
+        "cpf_cnpj_reu": "10884390000163",
+        "valor_causa": "R$ 1.009.302,66",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 74,
+        "numero_processo": "11029515120208260100",
+        "nome_reu": "RBL SERVIÇOS DE REPRESENTAÇÕES EIRELI",
+        "cpf_cnpj_reu": "28769758000108",
+        "valor_causa": "R$ 165.940,28",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 75,
+        "numero_processo": "10865784220208260100",
+        "nome_reu": "LANCHONETE BELA ANGÉLICA LTDA ME",
+        "cpf_cnpj_reu": "09575763000135",
+        "valor_causa": "R$ 62.753,92",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 76,
+        "numero_processo": "10281575920208260100",
+        "nome_reu": "LI BRASIL INDUSTRIA E COMÉRCIO DE VESTUÁRIO E ACESSORIOS - EIRELI",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 143.177,46",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 77,
+        "numero_processo": "11297662220198260100",
+        "nome_reu": "NATURAL COMÉRCIO DE SUPLEMENTOS EIRELI - EPP",
+        "cpf_cnpj_reu": "26338271000145",
+        "valor_causa": "R$ 121.120,35",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 78,
+        "numero_processo": "10680092720198260100",
+        "nome_reu": "POLIETINE COMERCIAL E DISTRIBUIDORA — EIRELI - EPP",
+        "cpf_cnpj_reu": "27435272000170",
+        "valor_causa": "R$ 336.993,76",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 79,
+        "numero_processo": "11320650620188260100",
+        "nome_reu": "COMERCIAL JP IMPORTACAO E EXPORTACAO LTDA",
+        "cpf_cnpj_reu": "27530207000124",
+        "valor_causa": "R$ 302.893,20",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 80,
+        "numero_processo": "10573291720188260100",
+        "nome_reu": "CONFECÇÕES IUGA LTDA",
+        "cpf_cnpj_reu": "96582945000138",
+        "valor_causa": "R$ 142.880,97",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 81,
+        "numero_processo": "10825375620258260100",
+        "nome_reu": "INOVAÇÃO 360 MARKETING LTDA",
+        "cpf_cnpj_reu": "55588308000191",
+        "valor_causa": "R$ 291.213,14",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 82,
+        "numero_processo": "10860390320258260100",
+        "nome_reu": "WILIAM LUTI MATTOS",
+        "cpf_cnpj_reu": "22526522846",
+        "valor_causa": "R$ 119.694,24",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 83,
+        "numero_processo": "10855401920258260100",
+        "nome_reu": "VELOZ MOTO PECAS LTDA (NEIMAR COMÉRCIO DE PEÇAS E ACESSÓRIOS PARA MOTOS LTDA)",
+        "cpf_cnpj_reu": "07297099000184",
+        "valor_causa": "R$ 89.142,31",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 84,
+        "numero_processo": "10766023520258260100",
+        "nome_reu": "UM DIREITO DE CRÉDITO INADIMPLIDO.\\\" A EXECUÇÃO NÃO SE INCLUI E NEM SE IDENTIFICA COM AS HIPÓTESES PREVISTAS NO ARTIGO 3º DA CITADA LEI",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 533.375,89",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 85,
+        "numero_processo": "10758437120258260100",
+        "nome_reu": "CHEUDO MURILLO NOVAS MOREIRA",
+        "cpf_cnpj_reu": "04544381509",
+        "valor_causa": "R$ 203.641,50",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 86,
+        "numero_processo": "10056536820258260008",
+        "nome_reu": "PATRICIA RODRIGUES GIACOMELLO",
+        "cpf_cnpj_reu": "30924785845",
+        "valor_causa": "R$ 381.926,11",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 87,
+        "numero_processo": "10717012420258260100",
+        "nome_reu": "JIANLING YANG",
+        "cpf_cnpj_reu": "24430370885",
+        "valor_causa": "R$ 158.709,60",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 88,
+        "numero_processo": "10736889520258260100",
+        "nome_reu": "YRANILDE BISPO DOS SANTOS",
+        "cpf_cnpj_reu": "42119182817",
+        "valor_causa": "R$ 142.280,57",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 89,
+        "numero_processo": "10561284320258260100",
+        "nome_reu": "VICTORINA THEREZA FRUGOLI",
+        "cpf_cnpj_reu": "11245026887",
+        "valor_causa": "R$ 185.743,53",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 90,
+        "numero_processo": "10524562720258260100",
+        "nome_reu": "BANCO BRADESCO S\/A",
+        "cpf_cnpj_reu": "60746948000112",
+        "valor_causa": "R$ 33.610,04",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 91,
+        "numero_processo": "10518708720258260100",
+        "nome_reu": "ERISVALDO DA SILVA",
+        "cpf_cnpj_reu": "08317598870",
+        "valor_causa": "R$ 351.800,21",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 92,
+        "numero_processo": "10426619420258260100",
+        "nome_reu": "FERNANDA VILAS BOAS PRUDENTE FERES",
+        "cpf_cnpj_reu": "31198670800",
+        "valor_causa": "R$ 167.177,28",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 93,
+        "numero_processo": "10416243220258260100",
+        "nome_reu": "JULIO DORIA ISNARD",
+        "cpf_cnpj_reu": "05547550841",
+        "valor_causa": "R$ 370.838,50",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 94,
+        "numero_processo": "10390348220258260100",
+        "nome_reu": "FERNANDA OCCHIALINI GODOY - ME",
+        "cpf_cnpj_reu": "07989420000191",
+        "valor_causa": "R$ 105.853,75",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 95,
+        "numero_processo": "10370367920258260100",
+        "nome_reu": "L CELL COMMERCIAL LTDA",
+        "cpf_cnpj_reu": "44247466000161",
+        "valor_causa": "R$ 107.245,60",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 96,
+        "numero_processo": "10322335320258260100",
+        "nome_reu": "LAERCIO ANDREOLI",
+        "cpf_cnpj_reu": "09238021856",
+        "valor_causa": "R$ 108.364,94",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 97,
+        "numero_processo": "10315909520258260100",
+        "nome_reu": "FABIO WILLIAN SANCHES",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 105.191,34",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 98,
+        "numero_processo": "10256999320258260100",
+        "nome_reu": "JENIFHER DIONISIA DE SANTANA MANGINI",
+        "cpf_cnpj_reu": "44103609818",
+        "valor_causa": "R$ 114.216,04",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 99,
+        "numero_processo": "10085049520258260100",
+        "nome_reu": "FENGXIAO WU",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 110.306,40",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 100,
+        "numero_processo": "10212206720248260011",
+        "nome_reu": "OH YES PRODUCOES EIRELI",
+        "cpf_cnpj_reu": "36620630000106",
+        "valor_causa": "R$ 179.320,79",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 101,
+        "numero_processo": "11841384220248260100",
+        "nome_reu": "NAYA COMERCIO E CONFECCAO LTDA",
+        "cpf_cnpj_reu": "36454822000190",
+        "valor_causa": "R$ 176.622,46",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 102,
+        "numero_processo": "11821127120248260100",
+        "nome_reu": "BELK COMERCIO DE JEANS LTDA",
+        "cpf_cnpj_reu": "50167151000107",
+        "valor_causa": "R$ 459.162,99",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 103,
+        "numero_processo": "11692670720248260100",
+        "nome_reu": "RAQUEL MARTINS MARQUES",
+        "cpf_cnpj_reu": "35344969813",
+        "valor_causa": "R$ 107.292,93",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 104,
+        "numero_processo": "11626148620248260100",
+        "nome_reu": "ADRIANA TORRES DA SILVA BEZERRA",
+        "cpf_cnpj_reu": "11326645862",
+        "valor_causa": "R$ 120.183,33",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 105,
+        "numero_processo": "11562769620248260100",
+        "nome_reu": "INTELGORS ELETRONICOS LTDA",
+        "cpf_cnpj_reu": "46270350000179",
+        "valor_causa": "R$ 109.344,25",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 106,
+        "numero_processo": "11557676820248260100",
+        "nome_reu": "RAHIM UDDIN",
+        "cpf_cnpj_reu": "01354816943",
+        "valor_causa": "R$ 205.331,61",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 107,
+        "numero_processo": "11410513620248260100",
+        "nome_reu": "CHEIRO BOM PRODUTOS DE BELEZA EIRELI",
+        "cpf_cnpj_reu": "42563096000146",
+        "valor_causa": "R$ 107.648,79",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 108,
+        "numero_processo": "11342492220248260100",
+        "nome_reu": "TIAGO DE PAULA ROCCA",
+        "cpf_cnpj_reu": "33937722874",
+        "valor_causa": "R$ 131.521,12",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 109,
+        "numero_processo": "11153922520248260100",
+        "nome_reu": "C. SARRO TECELAGEM",
+        "cpf_cnpj_reu": "36583459000102",
+        "valor_causa": "R$ 198.205,20",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 110,
+        "numero_processo": "11153861820248260100",
+        "nome_reu": "VANDA APARECIDA DE SOUZA RIBEIRO",
+        "cpf_cnpj_reu": "96268760859",
+        "valor_causa": "R$ 188.568,33",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 111,
+        "numero_processo": "10839451920248260100",
+        "nome_reu": "MELIZE SARTORATO",
+        "cpf_cnpj_reu": "36872383852",
+        "valor_causa": "R$ 109.001,36",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 112,
+        "numero_processo": "10113416020248260003",
+        "nome_reu": "JOSE PROCACI PATROCINIO",
+        "cpf_cnpj_reu": "12597783715",
+        "valor_causa": "R$ 151.731,39",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 113,
+        "numero_processo": "10678397920248260100",
+        "nome_reu": "MARIA FERNANDA PERRI GURGEL GUIDA",
+        "cpf_cnpj_reu": "32230283820",
+        "valor_causa": "R$ 238.511,18",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 114,
+        "numero_processo": "10247552820248260100",
+        "nome_reu": "SAM COSMETICO LTDA",
+        "cpf_cnpj_reu": "44617461000183",
+        "valor_causa": "R$ 337.738,59",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 115,
+        "numero_processo": "10136955820248260100",
+        "nome_reu": "MARIO ISSAMU TANIOKU",
+        "cpf_cnpj_reu": "87285711853",
+        "valor_causa": "R$ 1.107,64",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 116,
+        "numero_processo": "10042363220248260100",
+        "nome_reu": "ALEX LIMA DOS SANTOS",
+        "cpf_cnpj_reu": "42807518000181",
+        "valor_causa": "R$ 255.801,02",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 117,
+        "numero_processo": "11697836120238260100",
+        "nome_reu": "MAURICIO MARIANO PRODUCOES FOTOGRAFICAS LTDA",
+        "cpf_cnpj_reu": "15808180000100",
+        "valor_causa": "R$ 96.112,24",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 118,
+        "numero_processo": "11342902320238260100",
+        "nome_reu": "GCARDOSO COMERCIO E SERVICOS LTDA",
+        "cpf_cnpj_reu": "40003310000184",
+        "valor_causa": "R$ 165.892,62",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 119,
+        "numero_processo": "11265492920238260100",
+        "nome_reu": "TUAIS COMO ENTABULADO ENTRE AS PARTES",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 138.076,09",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 120,
+        "numero_processo": "11045372120238260100",
+        "nome_reu": "ADELIA ISOBE SATO TANNO",
+        "cpf_cnpj_reu": "56312245853",
+        "valor_causa": "R$ 207.840,16",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 121,
+        "numero_processo": "11026613120238260100",
+        "nome_reu": "SUCESSU EMPRESA DE SERVIÇOS S\/S LTDA - EPP",
+        "cpf_cnpj_reu": "08309584000193",
+        "valor_causa": "R$ 139.687,99",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 122,
+        "numero_processo": "10878410720238260100",
+        "nome_reu": "RONI 35 TECIDOS E CONFECÇÕES EIRELI",
+        "cpf_cnpj_reu": "42373815000166",
+        "valor_causa": "R$ 172.182,83",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 123,
+        "numero_processo": "11408199220228260100",
+        "nome_reu": "DOUGLAS NOVAIS DE CARVALHO",
+        "cpf_cnpj_reu": "18361355804",
+        "valor_causa": "R$ 1.421,18",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 124,
+        "numero_processo": "11247724320228260100",
+        "nome_reu": "LR INFORMÁTICA E ELETRÔNICOS EIRELI",
+        "cpf_cnpj_reu": "42639460000104",
+        "valor_causa": "R$ 294.447,97",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 125,
+        "numero_processo": "10879401120228260100",
+        "nome_reu": "TAIANE BOMFIM DE OLIVEIRA",
+        "cpf_cnpj_reu": "40943387809",
+        "valor_causa": "R$ 71.682,43",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 126,
+        "numero_processo": "10032318920228260020",
+        "nome_reu": "(I) ANTONIO CARLOS FERREIRA LOPES",
+        "cpf_cnpj_reu": "31211041875",
+        "valor_causa": "R$ 144.311,24",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 127,
+        "numero_processo": "11198526020218260100",
+        "nome_reu": "JOAO BAPTISTA DONATI FILHO",
+        "cpf_cnpj_reu": "83972390815",
+        "valor_causa": "R$ 2.798,57",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 128,
+        "numero_processo": "11198249220218260100",
+        "nome_reu": "ROSEMARY GIAVANOTTI FAFI BRANDA",
+        "cpf_cnpj_reu": "01198829141",
+        "valor_causa": "R$ 1.905,53",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 129,
+        "numero_processo": "10757522020218260100",
+        "nome_reu": "NAVIRE´S MODA JEANS LTDA",
+        "cpf_cnpj_reu": "20844359000152",
+        "valor_causa": "R$ 130.741,18",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 130,
+        "numero_processo": "11257612020208260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 104.161,91",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 131,
+        "numero_processo": "10933322420258260100",
+        "nome_reu": "JEFERSON RODRIGO STROHER",
+        "cpf_cnpj_reu": "98285386015",
+        "valor_causa": "R$ 424.412,48",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 132,
+        "numero_processo": "10897302520258260100",
+        "nome_reu": "MELANGE JEANS LTDA ME",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 75.152,59",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 133,
+        "numero_processo": "10891040620258260100",
+        "nome_reu": "STEFANO VIOLA",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 321.691,97",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 134,
+        "numero_processo": "10838262420258260100",
+        "nome_reu": "ARNALDO BALDINI",
+        "cpf_cnpj_reu": "57602603834",
+        "valor_causa": "R$ 271.729,83",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 135,
+        "numero_processo": "10800380220258260100",
+        "nome_reu": "LEILA FIGUEIREDO SILVA",
+        "cpf_cnpj_reu": "13694336893",
+        "valor_causa": "R$ 621.932,22",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 136,
+        "numero_processo": "10610486020258260100",
+        "nome_reu": "MARCELLO RODRIGUES DA SILVA",
+        "cpf_cnpj_reu": "00983671109",
+        "valor_causa": "R$ 162.091,86",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 137,
+        "numero_processo": "10618661220258260100",
+        "nome_reu": "CARLITO ELECTRO LTDA ME (INAPTA)",
+        "cpf_cnpj_reu": "43685159000108",
+        "valor_causa": "R$ 134.819,24",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 138,
+        "numero_processo": "10607272520258260100",
+        "nome_reu": "CAREVA MANUTENCAO EM EQUIPAMENTOS LTDA EPP",
+        "cpf_cnpj_reu": "60514593000136",
+        "valor_causa": "R$ 285.136,95",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 139,
+        "numero_processo": "10558512720258260100",
+        "nome_reu": "SERGIO MONTAGNANA PINTO DE REZENDE",
+        "cpf_cnpj_reu": "12904041869",
+        "valor_causa": "R$ 131.331,73",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 140,
+        "numero_processo": "10330139020258260100",
+        "nome_reu": "DAIANY MULTICOISAS TUDO PARA SUA CASA LTDA ME",
+        "cpf_cnpj_reu": "50520547000196",
+        "valor_causa": "R$ 364.853,22",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 141,
+        "numero_processo": "10170252920258260100",
+        "nome_reu": "CLEUSA PLACCO TAURISANO",
+        "cpf_cnpj_reu": "40270122753",
+        "valor_causa": "R$ 265.490,20",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 142,
+        "numero_processo": "10003064520258260011",
+        "nome_reu": "GUSTAVO CHEUDER JARDIM SOUZA",
+        "cpf_cnpj_reu": "45198328880",
+        "valor_causa": "R$ 795.882,49",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 143,
+        "numero_processo": "10025368420258260100",
+        "nome_reu": "ADEGA E MERCEARIA PACHECASTRO LTDA.",
+        "cpf_cnpj_reu": "01417688000172",
+        "valor_causa": "R$ 873.646,53",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 144,
+        "numero_processo": "12030309620248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 133.563,99",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 145,
+        "numero_processo": "11937969020248260100",
+        "nome_reu": "CAPITAL LIFE FOMENTO COMERCIAL E GESTÃO LTDA",
+        "cpf_cnpj_reu": "34026415000156",
+        "valor_causa": "R$ 243.174,52",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 146,
+        "numero_processo": "11937085220248260100",
+        "nome_reu": "RODRIGO ZUNIGA DE MELO SOUSA",
+        "cpf_cnpj_reu": "93430566568",
+        "valor_causa": "R$ 136.002,16",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 147,
+        "numero_processo": "11936808420248260100",
+        "nome_reu": "GRÁFICA FENIX DE FRANCA LTDA ME",
+        "cpf_cnpj_reu": "11307280000100",
+        "valor_causa": "R$ 121.850,41",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 148,
+        "numero_processo": "11907058920248260100",
+        "nome_reu": "LIS MARIA PUPO NOGUEIRA CASALE",
+        "cpf_cnpj_reu": "04179855844",
+        "valor_causa": "R$ 146.479,21",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 149,
+        "numero_processo": "11779564020248260100",
+        "nome_reu": "LUBNA COMÉRCIO DE CONFECÇÕES LTDA ME",
+        "cpf_cnpj_reu": "44899043000126",
+        "valor_causa": "R$ 229.177,01",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 150,
+        "numero_processo": "11724014220248260100",
+        "nome_reu": "GABRIELA ROCHA MULLER",
+        "cpf_cnpj_reu": "63561174191",
+        "valor_causa": "R$ 164.798,27",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 151,
+        "numero_processo": "11669685720248260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 68.175,82",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 152,
+        "numero_processo": "11634549620248260100",
+        "nome_reu": "CERTIFIC SUA ASSINATURA DIGITAL",
+        "cpf_cnpj_reu": "14626369000119",
+        "valor_causa": "R$ 240.784,57",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 153,
+        "numero_processo": "11523873720248260100",
+        "nome_reu": "ALEXANDRE DA SILVEIRA GATO LYRITIS",
+        "cpf_cnpj_reu": "12475145870",
+        "valor_causa": "R$ 212.455,88",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 154,
+        "numero_processo": "10909023620248260100",
+        "nome_reu": "SYLVIA DE BIASI GARCIA CAMPOS",
+        "cpf_cnpj_reu": "22392591830",
+        "valor_causa": "R$ 25.578,50",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 155,
+        "numero_processo": "11462149420248260100",
+        "nome_reu": "ANDRÉ DE CAMARGO GALIANO",
+        "cpf_cnpj_reu": "26716325840",
+        "valor_causa": "R$ 205.217,95",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 156,
+        "numero_processo": "11046001220248260100",
+        "nome_reu": "ELIANE SINEIDER FERREIRA",
+        "cpf_cnpj_reu": "28802090807",
+        "valor_causa": "R$ 143.117,53",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 157,
+        "numero_processo": "10935716220248260100",
+        "nome_reu": "CSS PEÇAS E PNEUS LTDA",
+        "cpf_cnpj_reu": "45341961000106",
+        "valor_causa": "R$ 254.677,53",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 158,
+        "numero_processo": "10767248220248260100",
+        "nome_reu": "LUIS HENRIQUE PIVA",
+        "cpf_cnpj_reu": "25173303875",
+        "valor_causa": "R$ 273.862,66",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 159,
+        "numero_processo": "10763887820248260100",
+        "nome_reu": "DR. SEBA SOUSA CLÍNICA MÉDICA LTDA ME",
+        "cpf_cnpj_reu": "30818910000147",
+        "valor_causa": "R$ 213.014,59",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 160,
+        "numero_processo": "10265982820248260100",
+        "nome_reu": "GILBA - COMÉRCIO DE CONFECÇÕES LTDA",
+        "cpf_cnpj_reu": "26427493000134",
+        "valor_causa": "R$ 382.287,18",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 161,
+        "numero_processo": "10204413920248260100",
+        "nome_reu": "FACE DE A.M.A. ARTIGOS DO VESTUÁRIO LTDA.",
+        "cpf_cnpj_reu": "45662998000128",
+        "valor_causa": "R$ 235.574,59",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 162,
+        "numero_processo": "10163535520248260100",
+        "nome_reu": "ROBERTO BALDOCCHI CAVALCANTE",
+        "cpf_cnpj_reu": "22534870823",
+        "valor_causa": "R$ 12.883,02",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 163,
+        "numero_processo": "10093366520248260100",
+        "nome_reu": "MARCOS ALEXANDRE RAMOS MOTTA DA SILVA",
+        "cpf_cnpj_reu": "49616832808",
+        "valor_causa": "R$ 324.586,18",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 164,
+        "numero_processo": "10083882620248260100",
+        "nome_reu": "PANIFICADORA FEOLA LTDA EPP",
+        "cpf_cnpj_reu": "61261541000168",
+        "valor_causa": "R$ 579.120,41",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 165,
+        "numero_processo": "11698372720238260100",
+        "nome_reu": "BSC IMPORTAÇÃO COMÉRCIO E LOGÍSTICA LTDA",
+        "cpf_cnpj_reu": "44493517000135",
+        "valor_causa": "R$ 164.254,10",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 166,
+        "numero_processo": "11602447120238260100",
+        "nome_reu": "THIAGO MOYA BARBOSA SANTOS",
+        "cpf_cnpj_reu": "38949103800",
+        "valor_causa": "R$ 354.099,49",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 167,
+        "numero_processo": "11562304420238260100",
+        "nome_reu": "BZB GESTÃO DE ATIVOS E NEGÓCIOS LTDA EPP",
+        "cpf_cnpj_reu": "37243181000197",
+        "valor_causa": "R$ 85.567,39",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 168,
+        "numero_processo": "11555627320238260100",
+        "nome_reu": "FOUAD MOHAMAD DIB",
+        "cpf_cnpj_reu": "00913474916",
+        "valor_causa": "R$ 387.125,86",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 169,
+        "numero_processo": "11554795720238260100",
+        "nome_reu": "CENTRAL STUDIO FUNK LTDA",
+        "cpf_cnpj_reu": "38313974000106",
+        "valor_causa": "R$ 151.425,94",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 170,
+        "numero_processo": "11498319620238260100",
+        "nome_reu": "ANA PAULA NOGUEIRA ALVES",
+        "cpf_cnpj_reu": "14524925813",
+        "valor_causa": "R$ 192.372,60",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 171,
+        "numero_processo": "11477455520238260100",
+        "nome_reu": "JOSÉ ROBERTO FRANCHI PERSIANI",
+        "cpf_cnpj_reu": "10574983864",
+        "valor_causa": "R$ 125.340,07",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 172,
+        "numero_processo": "11430072420238260100",
+        "nome_reu": "ROGÉRIO DE ALMEIDA DOS SANTOS",
+        "cpf_cnpj_reu": "06884227486",
+        "valor_causa": "R$ 109.199,26",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 173,
+        "numero_processo": "11223730720238260100",
+        "nome_reu": "ROBERTO BALDOCCHI CAVALCANTE",
+        "cpf_cnpj_reu": "22534870823",
+        "valor_causa": "R$ 118.150,09",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 174,
+        "numero_processo": "11222215620238260100",
+        "nome_reu": "ABSOLUTTA TECIDOS E CONFECCOES EIRELI",
+        "cpf_cnpj_reu": "31695128000140",
+        "valor_causa": "R$ 238.843,97",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 175,
+        "numero_processo": "11217175020238260100",
+        "nome_reu": "UROCKS SOLUCOES FINANCEIRAS LTDA",
+        "cpf_cnpj_reu": "30704036000117",
+        "valor_causa": "R$ 112.958,12",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 176,
+        "numero_processo": "11169211620238260100",
+        "nome_reu": "TUAIS COMO ENTABULADO ENTRE AS PARTES",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 136.166,19",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 177,
+        "numero_processo": "10073422120238260008",
+        "nome_reu": "4 FUN ESCOLA DE COMPUTAÇÃO GRÁFICA LTDA ME",
+        "cpf_cnpj_reu": "20907216000142",
+        "valor_causa": "R$ 1.083.663,95",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 178,
+        "numero_processo": "11153796020238260100",
+        "nome_reu": "AMS COMÉRCIO DE ALIMENTOS E BEBIDAS LTDA ME",
+        "cpf_cnpj_reu": "42958182000158",
+        "valor_causa": "R$ 136.410,93",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 179,
+        "numero_processo": "11103572120238260100",
+        "nome_reu": "RILTY CONSTRUÇÕES E SERVIÇOS LTDA ME",
+        "cpf_cnpj_reu": "19108586000130",
+        "valor_causa": "R$ 374.342,03",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 180,
+        "numero_processo": "10434307320238260100",
+        "nome_reu": "ROSANGELA SOUSA",
+        "cpf_cnpj_reu": "14694470884",
+        "valor_causa": "R$ 212.840,10",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 181,
+        "numero_processo": "10892658420238260100",
+        "nome_reu": "IVO SÉRGIO DA SILVA JUREMA",
+        "cpf_cnpj_reu": "30401892808",
+        "valor_causa": "R$ 224.877,98",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 182,
+        "numero_processo": "10831911420238260100",
+        "nome_reu": "WECLAP EVENTOS LTDA ME",
+        "cpf_cnpj_reu": "14848687000124",
+        "valor_causa": "R$ 30.282,87",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 183,
+        "numero_processo": "10832024320238260100",
+        "nome_reu": "ARCANI IMPORTAÇÃO E EXPORTAÇÃO LTDA (WCA IMPORTAÇÃO E EXPORTAÇÃO LTDA)",
+        "cpf_cnpj_reu": "35612222000220",
+        "valor_causa": "R$ 135.044,23",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 184,
+        "numero_processo": "10753255220238260100",
+        "nome_reu": "AN09 DISTRIBUIDORA DE PRODUTOS ESPORTIVO",
+        "cpf_cnpj_reu": "34955217000177",
+        "valor_causa": "R$ 315.271,73",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 185,
+        "numero_processo": "10631701720238260100",
+        "nome_reu": "COSTA GONÇALVES CONSTRUÇÃO E SERVIÇOS LTDA ME",
+        "cpf_cnpj_reu": "64555246000102",
+        "valor_causa": "R$ 556.524,06",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 186,
+        "numero_processo": "10631866820238260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 162.006,62",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 187,
+        "numero_processo": "10087999720238260005",
+        "nome_reu": "VANESSA DE GOES MATHEUS",
+        "cpf_cnpj_reu": "28290688822",
+        "valor_causa": "R$ 127.526,23",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 188,
+        "numero_processo": "10068988520238260008",
+        "nome_reu": "VALENCIA INDUSTRIA COMERCIO E REPRESENTAÇÕES DE MATERIAL PLASTICO LTDA",
+        "cpf_cnpj_reu": "44693257000141",
+        "valor_causa": "R$ 692.535,98",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 189,
+        "numero_processo": "10555920320238260100",
+        "nome_reu": "CERIGUELA NATURAL FOOD ALIMENTAÇÃO LTDA ME",
+        "cpf_cnpj_reu": "21094043000153",
+        "valor_causa": "R$ 203.802,01",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 190,
+        "numero_processo": "10513327720238260100",
+        "nome_reu": "ROSA DO LIBANO RESTAURANTE UNIPESSOAL LTDA ME (ANTIGA DENOMINAÇÃO ROSA DO LIBANO RESTAURANTE LTDA)",
+        "cpf_cnpj_reu": "20512824000158",
+        "valor_causa": "R$ 348.773,31",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 191,
+        "numero_processo": "10450294720238260100",
+        "nome_reu": "LUBNA COMÉRCIO DE CONFECÇÕES LTDA ME",
+        "cpf_cnpj_reu": "44899043000126",
+        "valor_causa": "R$ 112.417,60",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 192,
+        "numero_processo": "10434540420238260100",
+        "nome_reu": "TRIBOS IMPORTAÇÃO E EXPORTAÇÃO LTDA ME",
+        "cpf_cnpj_reu": "43966133000120",
+        "valor_causa": "R$ 336.048,23",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 193,
+        "numero_processo": "10424156920238260100",
+        "nome_reu": "CELSO TEPERMAN",
+        "cpf_cnpj_reu": "25851357800",
+        "valor_causa": "R$ 119.968,60",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 194,
+        "numero_processo": "11415083920228260100",
+        "nome_reu": "FABIO GRANADO VELLA",
+        "cpf_cnpj_reu": "27338960836",
+        "valor_causa": "R$ 90.096,89",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 195,
+        "numero_processo": "10359140220238260100",
+        "nome_reu": "MISS POP CONFECÇÕES IMPORTAÇÃO E EXPORTAÇÃO LTDA EPP",
+        "cpf_cnpj_reu": "05876811000174",
+        "valor_causa": "R$ 17.599,97",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 196,
+        "numero_processo": "10331747120238260100",
+        "nome_reu": "J & R REPRESENTAÇÕES COMERCIAIS LTDA",
+        "cpf_cnpj_reu": "08236916000157",
+        "valor_causa": "R$ 152.542,58",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 197,
+        "numero_processo": "10331902520238260100",
+        "nome_reu": "88 COMUNICAÇÃO LTDA",
+        "cpf_cnpj_reu": "02836133511",
+        "valor_causa": "R$ 119.749,40",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 198,
+        "numero_processo": "10175801720238260100",
+        "nome_reu": "TIAGO DA SILVA FALCAO",
+        "cpf_cnpj_reu": "03291473310",
+        "valor_causa": "R$ 73.907,45",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 199,
+        "numero_processo": "10287663720238260100",
+        "nome_reu": "MEGAMAX COMÉRCIO DE ALUMINIOS",
+        "cpf_cnpj_reu": "07437614000184",
+        "valor_causa": "R$ 808.470,20",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 200,
+        "numero_processo": "10267501320238260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 115.820,48",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 201,
+        "numero_processo": "10221045720238260100",
+        "nome_reu": "FLAVIA NASSIF GUMIERO",
+        "cpf_cnpj_reu": "25833681847",
+        "valor_causa": "R$ 205.581,85",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 202,
+        "numero_processo": "10191954220238260100",
+        "nome_reu": "CARLOS ANTONIO DIAS SILVA REIS",
+        "cpf_cnpj_reu": "03455601839",
+        "valor_causa": "R$ 286.107,63",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 203,
+        "numero_processo": "10147889020238260100",
+        "nome_reu": "LIRIS DE CASTRO LOPES ME",
+        "cpf_cnpj_reu": "25146628000120",
+        "valor_causa": "R$ 142.968,04",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 204,
+        "numero_processo": "10129199220238260100",
+        "nome_reu": "MILLENE PEREIRA LOPES DA SILVA",
+        "cpf_cnpj_reu": "45058978857",
+        "valor_causa": "R$ 126.326,63",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 205,
+        "numero_processo": "10128428320238260100",
+        "nome_reu": "TIAGO DA SILVA FALCÃO",
+        "cpf_cnpj_reu": "03291473310",
+        "valor_causa": "R$ 45.590,70",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 206,
+        "numero_processo": "10126331720238260100",
+        "nome_reu": "TRIBOS IMPORTAÇÃO E EXPORTAÇÃO LTDA ME",
+        "cpf_cnpj_reu": "06003472000184",
+        "valor_causa": "R$ 148.799,88",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 207,
+        "numero_processo": "10071068420238260100",
+        "nome_reu": "TREX IMPORTAÇÃO E EXPORTAÇÃO LTDA",
+        "cpf_cnpj_reu": "24808174000143",
+        "valor_causa": "R$ 198.347,10",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 208,
+        "numero_processo": "10039551320238260100",
+        "nome_reu": "KLEBERT BUENO SOBRINHO",
+        "cpf_cnpj_reu": "04666727132",
+        "valor_causa": "R$ 169.782,41",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 209,
+        "numero_processo": "10002068520238260100",
+        "nome_reu": "MOOCA GAS LTDA",
+        "cpf_cnpj_reu": "39599265000193",
+        "valor_causa": "R$ 89.922,86",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 210,
+        "numero_processo": "11443725020228260100",
+        "nome_reu": "JOÃO ROSA SANTANA",
+        "cpf_cnpj_reu": "25355661840",
+        "valor_causa": "R$ 326.615,54",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 211,
+        "numero_processo": "11396039620228260100",
+        "nome_reu": "FREDDY STENZEL",
+        "cpf_cnpj_reu": "27623171852",
+        "valor_causa": "R$ 187.135,73",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 212,
+        "numero_processo": "11343598920228260100",
+        "nome_reu": "DANIELLE CASTANHEIRA DA SILVA",
+        "cpf_cnpj_reu": "21288814801",
+        "valor_causa": "R$ 122.119,95",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 213,
+        "numero_processo": "11180144820228260100",
+        "nome_reu": "F12 MODAS CONFECCAO IMPORTACAO EIRELI",
+        "cpf_cnpj_reu": "40944166000180",
+        "valor_causa": "R$ 146.358,69",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 214,
+        "numero_processo": "11141656820228260100",
+        "nome_reu": "PIETRO LOMBARDI D\\'ABREU MACEDO PATERNOSTRO",
+        "cpf_cnpj_reu": "22796140814",
+        "valor_causa": "R$ 231.883,97",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 215,
+        "numero_processo": "11114748120228260100",
+        "nome_reu": "CICERO BATISTA DE ALMEIDA",
+        "cpf_cnpj_reu": "02384278380",
+        "valor_causa": "R$ 132.202,48",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 216,
+        "numero_processo": "11029717120228260100",
+        "nome_reu": "CLEIA ARAUJO DA PAIXÃO",
+        "cpf_cnpj_reu": "01191328503",
+        "valor_causa": "R$ 174.596,51",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 217,
+        "numero_processo": "10861863420228260100",
+        "nome_reu": "COSTA GONÇALVES CONSTRUÇÃO E SERVIÇOS LTDA",
+        "cpf_cnpj_reu": "64555246000102",
+        "valor_causa": "R$ 182.989,73",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 218,
+        "numero_processo": "10439064820228260100",
+        "nome_reu": "(I) JAMAL HOSSAIN 01271411970",
+        "cpf_cnpj_reu": "01271411970",
+        "valor_causa": "R$ 136.684,78",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 219,
+        "numero_processo": "11083251420218260100",
+        "nome_reu": "ADEGA E MERCEARIA PACHECASTRO LTDA ME",
+        "cpf_cnpj_reu": "01417688000172",
+        "valor_causa": "R$ 198.851,42",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 220,
+        "numero_processo": "10448152720218260100",
+        "nome_reu": "IGOR DA SILVA CUNHA",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 15.792,50",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 221,
+        "numero_processo": "10283382620218260100",
+        "nome_reu": "CHARLES CHRISTIAN HINSCHING SOCIEDADE INDIVIDUAL DE ADVOCACIA",
+        "cpf_cnpj_reu": "27058541000127",
+        "valor_causa": "R$ 23.317,56",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 222,
+        "numero_processo": "10093513920218260100",
+        "nome_reu": "CLÁUDIO OLÍMPIO FIGUEIRA MOURA 22155600100",
+        "cpf_cnpj_reu": "22155600100",
+        "valor_causa": "R$ 127.955,64",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 223,
+        "numero_processo": "10886961520258260100",
+        "nome_reu": "VALCIR BRUNHARI",
+        "cpf_cnpj_reu": "12003183825",
+        "valor_causa": "R$ 135.556,92",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 224,
+        "numero_processo": "10739288420258260100",
+        "nome_reu": "DIEGO ALVES DOS REIS VERONEZI",
+        "cpf_cnpj_reu": "36839163890",
+        "valor_causa": "R$ 111.841,05",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 225,
+        "numero_processo": "10603201920258260100",
+        "nome_reu": "DENIS WILSON SALES NORONHA",
+        "cpf_cnpj_reu": "79681468520",
+        "valor_causa": "R$ 104.352,88",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 226,
+        "numero_processo": "10400792420258260100",
+        "nome_reu": "FRANCISCO ERLANIO DA SILVA",
+        "cpf_cnpj_reu": "07370002365",
+        "valor_causa": "R$ 104.478,84",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 227,
+        "numero_processo": "10398913120258260100",
+        "nome_reu": "DIEGO ALVES DOS REIS VERONEZI",
+        "cpf_cnpj_reu": "36839163890",
+        "valor_causa": "R$ 123.638,13",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 228,
+        "numero_processo": "10398705520258260100",
+        "nome_reu": "ALLYSSON DEYVID CAVALCANTE ARAUJO",
+        "cpf_cnpj_reu": "01506261426",
+        "valor_causa": "R$ 301.535,22",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 229,
+        "numero_processo": "10351253220258260100",
+        "nome_reu": "THIAGO TEILHARD DE AQUINO",
+        "cpf_cnpj_reu": "25630499890",
+        "valor_causa": "R$ 235.836,35",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 230,
+        "numero_processo": "10334356520258260100",
+        "nome_reu": "SERGIO RICARDO FERREIRA",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 277.137,03",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 231,
+        "numero_processo": "00059467020258260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 302.528,64",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 232,
+        "numero_processo": "10150965820258260100",
+        "nome_reu": "ORLANDO RODRIGUES FERREIRA JUNIOR",
+        "cpf_cnpj_reu": "11318238420",
+        "valor_causa": "R$ 110.606,67",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 233,
+        "numero_processo": "11918984220248260100",
+        "nome_reu": "KATHREIN CAMILE SANTOS DE SOUZA",
+        "cpf_cnpj_reu": "41199629898",
+        "valor_causa": "R$ 144.557,23",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 234,
+        "numero_processo": "11768253020248260100",
+        "nome_reu": "PHG SERVICE INSTRUMENTACAO – EIRELI - EPP",
+        "cpf_cnpj_reu": "21409296000179",
+        "valor_causa": "R$ 112.647,69",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 235,
+        "numero_processo": "10165954720238260068",
+        "nome_reu": "VANESSA CORDEIRO DE CARVALHO",
+        "cpf_cnpj_reu": "28666218835",
+        "valor_causa": "R$ 162.583,48",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 236,
+        "numero_processo": "11169052820248260100",
+        "nome_reu": "FAYROUZ MODAS LTDA (SEVEN WAY CONCEPT) PESSOA JURÍDICA INSCRITA NO CNPJ SOB O Nº 19.941.466\/0001-10",
+        "cpf_cnpj_reu": "19941466000110",
+        "valor_causa": "R$ 1.295.583,85",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 237,
+        "numero_processo": "10719423220248260100",
+        "nome_reu": "CAIO HENRIQUE CAPRIOLI",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 340.417,07",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 238,
+        "numero_processo": "10443700420248260100",
+        "nome_reu": "IMPERIUM TECIDOS E CONFECCOES EIRELI",
+        "cpf_cnpj_reu": "21586005000118",
+        "valor_causa": "R$ 197.507,15",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 239,
+        "numero_processo": "10441917020248260100",
+        "nome_reu": "MIKYUNG SEO LEE",
+        "cpf_cnpj_reu": "03211954000131",
+        "valor_causa": "R$ 236.807,68",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 240,
+        "numero_processo": "10433057120248260100",
+        "nome_reu": "KID DEA RICOTTA SOARES",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 192.338,91",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 241,
+        "numero_processo": "10433021920248260100",
+        "nome_reu": "THREE SEVEN CONFECCOES DE ROUPAS LTDA",
+        "cpf_cnpj_reu": "58836131000193",
+        "valor_causa": "R$ 364.677,84",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 242,
+        "numero_processo": "10433013420248260100",
+        "nome_reu": "W.M.D CONSULTORIA E INTERMEDIACAO DE",
+        "cpf_cnpj_reu": "33765458000190",
+        "valor_causa": "R$ 393.431,55",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 243,
+        "numero_processo": "10432485320248260100",
+        "nome_reu": "SHAFIQUL MIA",
+        "cpf_cnpj_reu": "23905817810",
+        "valor_causa": "R$ 163.635,29",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 244,
+        "numero_processo": "10028731020248260100",
+        "nome_reu": "CELSON FLORENCIO",
+        "cpf_cnpj_reu": "04373872830",
+        "valor_causa": "R$ 184.419,99",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 245,
+        "numero_processo": "11705197920238260100",
+        "nome_reu": "VANESSA APARECIDA ALVES DA COSTA",
+        "cpf_cnpj_reu": "36315244807",
+        "valor_causa": "R$ 245.116,09",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 246,
+        "numero_processo": "10162220220238260008",
+        "nome_reu": "HASSAN MOHAMAD SLEIMAN",
+        "cpf_cnpj_reu": "12705177833",
+        "valor_causa": "R$ 147.185,40",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 247,
+        "numero_processo": "11467019820238260100",
+        "nome_reu": "FREE TRANSIT INTERMEDIACAO DE NEGOCIOS L",
+        "cpf_cnpj_reu": "09481932000178",
+        "valor_causa": "R$ 310.952,84",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 248,
+        "numero_processo": "11339793220238260100",
+        "nome_reu": "MARCELO LAMANNA DE CAMPOS MAIA DORIA",
+        "cpf_cnpj_reu": "26654448871",
+        "valor_causa": "R$ 106.084,82",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 249,
+        "numero_processo": "11331808620238260100",
+        "nome_reu": "MOHAMAD SOUHEIL EL SAHILI",
+        "cpf_cnpj_reu": "23720486869",
+        "valor_causa": "R$ 313.372,24",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 250,
+        "numero_processo": "11331756420238260100",
+        "nome_reu": "CELSO DE LIMA BUZZONI",
+        "cpf_cnpj_reu": "67460119849",
+        "valor_causa": "R$ 289.801,32",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 251,
+        "numero_processo": "11331687220238260100",
+        "nome_reu": "JENNFER CORREA COELHO",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 194.783,28",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 252,
+        "numero_processo": "11331565820238260100",
+        "nome_reu": "A D R FASHION CONFECCOES EIRELI",
+        "cpf_cnpj_reu": "30096587000145",
+        "valor_causa": "R$ 195.518,86",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 253,
+        "numero_processo": "11331219820238260100",
+        "nome_reu": "JOSE AUGUSTO FRANCISCO URBINI",
+        "cpf_cnpj_reu": "28314285803",
+        "valor_causa": "R$ 168.885,15",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 254,
+        "numero_processo": "11331176120238260100",
+        "nome_reu": "MAMMY VESTUARIO FEMININO LTDA ME",
+        "cpf_cnpj_reu": "13574669000139",
+        "valor_causa": "R$ 167.793,53",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 255,
+        "numero_processo": "11094521620238260100",
+        "nome_reu": "MARCELO LAMANNA DE CAMPOS MAIA DORIA",
+        "cpf_cnpj_reu": "26654448871",
+        "valor_causa": "R$ 105.192,75",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 256,
+        "numero_processo": "11322922020238260100",
+        "nome_reu": "MULTIMODAL LOGISTICA INTERNACIONAL EIRELI - EPP",
+        "cpf_cnpj_reu": "28702617000178",
+        "valor_causa": "R$ 182.198,60",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 257,
+        "numero_processo": "11309325020238260100",
+        "nome_reu": "GUILHERME CAIUBY NOVAES",
+        "cpf_cnpj_reu": "18520790887",
+        "valor_causa": "R$ 416.248,45",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 258,
+        "numero_processo": "11221132720238260100",
+        "nome_reu": "PAULO RICARDO TORRES SILVA",
+        "cpf_cnpj_reu": "41789468892",
+        "valor_causa": "R$ 75.178,28",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 259,
+        "numero_processo": "11204227520238260100",
+        "nome_reu": "VITOR LELLIS CHIOVETTO",
+        "cpf_cnpj_reu": "31117336883",
+        "valor_causa": "R$ 366.233,63",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 260,
+        "numero_processo": "11188655320238260100",
+        "nome_reu": "ANDRE JACINTHO MESQUITA",
+        "cpf_cnpj_reu": "07176796831",
+        "valor_causa": "R$ 145.506,66",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 261,
+        "numero_processo": "11155371820238260100",
+        "nome_reu": "ESTELLA ZAMAGNA ANTERO DE MATTOS",
+        "cpf_cnpj_reu": "70570833787",
+        "valor_causa": "R$ 164.594,49",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 262,
+        "numero_processo": "10993035820238260100",
+        "nome_reu": "EMPREITEIRA FORTUNATO EIRELI",
+        "cpf_cnpj_reu": "38625686000189",
+        "valor_causa": "R$ 160.058,03",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 263,
+        "numero_processo": "10980989120238260100",
+        "nome_reu": "PALOMA MONTEIRO DIAS",
+        "cpf_cnpj_reu": "05579035560",
+        "valor_causa": "R$ 84.500,74",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 264,
+        "numero_processo": "10979005420238260100",
+        "nome_reu": "KELEN RAMOS OVIL",
+        "cpf_cnpj_reu": "03091645754",
+        "valor_causa": "R$ 217.009,68",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 265,
+        "numero_processo": "10856387220238260100",
+        "nome_reu": "ANDHERSON BARCELLOS VIEIRA LIMA",
+        "cpf_cnpj_reu": "39993171832",
+        "valor_causa": "R$ 146.491,67",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 266,
+        "numero_processo": "10857227320238260100",
+        "nome_reu": "RODRIGO MARTELLETI",
+        "cpf_cnpj_reu": "11693121875",
+        "valor_causa": "R$ 117.493,24",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 267,
+        "numero_processo": "10762833820238260100",
+        "nome_reu": "ELIPHETE FILS BLANC",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 193.344,04",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 268,
+        "numero_processo": "10582162520238260100",
+        "nome_reu": "SEUNGHAK SHIN",
+        "cpf_cnpj_reu": "70239292154",
+        "valor_causa": "R$ 79.514,48",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 269,
+        "numero_processo": "10472535520238260100",
+        "nome_reu": "LYE NAKAYA",
+        "cpf_cnpj_reu": "11511718838",
+        "valor_causa": "R$ 141.420,26",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 270,
+        "numero_processo": "10332413620238260100",
+        "nome_reu": "CECILIA MIZIARA DE CASTRO BRITO",
+        "cpf_cnpj_reu": "01225230160",
+        "valor_causa": "R$ 333.920,74",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 271,
+        "numero_processo": "10265908520238260100",
+        "nome_reu": "LUMINAIRE COMERCIO E SERVICOS EM ILUMINA",
+        "cpf_cnpj_reu": "10320071000125",
+        "valor_causa": "R$ 141.805,45",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 272,
+        "numero_processo": "10087619120238260100",
+        "nome_reu": "LUIZ FERNANDO MOCELIN SPERANCETE",
+        "cpf_cnpj_reu": "07304576995",
+        "valor_causa": "R$ 33.709,06",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 273,
+        "numero_processo": "11446530620228260100",
+        "nome_reu": "MAXSUEL SANTOS PEREIRA",
+        "cpf_cnpj_reu": "42251463836",
+        "valor_causa": "R$ 34.542,61",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 274,
+        "numero_processo": "11387508720228260100",
+        "nome_reu": "FRANCISCO GILDEAN DE QUEIROZ",
+        "cpf_cnpj_reu": "70712366407",
+        "valor_causa": "R$ 120.209,77",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 275,
+        "numero_processo": "11348249820228260100",
+        "nome_reu": "HELMUT JOSE FERRAZ FLADT",
+        "cpf_cnpj_reu": "09317073824",
+        "valor_causa": "R$ 294.084,37",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 276,
+        "numero_processo": "11200263520228260100",
+        "nome_reu": "JUAREZ VALENCA SANTOS",
+        "cpf_cnpj_reu": "02731251506",
+        "valor_causa": "R$ 165.569,61",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 277,
+        "numero_processo": "11199700220228260100",
+        "nome_reu": "CLARICE KASSAWARA",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 270.929,62",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 278,
+        "numero_processo": "11179044920228260100",
+        "nome_reu": "RENATO SILVEIRA LIMA",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 285.470,59",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 279,
+        "numero_processo": "11054547420228260100",
+        "nome_reu": "RAMIA SLEIMAN",
+        "cpf_cnpj_reu": "23812426862",
+        "valor_causa": "R$ 166.418,69",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 280,
+        "numero_processo": "10693594520228260100",
+        "nome_reu": "BANCO BRADESCO S.A.",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 429.498,47",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 281,
+        "numero_processo": "10142168120218260011",
+        "nome_reu": "CENTRO AUDITIVO AUDIUM LTDA EPP",
+        "cpf_cnpj_reu": "08618243000108",
+        "valor_causa": "R$ 692.244,16",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 282,
+        "numero_processo": "10022658020228260100",
+        "nome_reu": "UILES VIEIRA DE MATOS JUNIOR",
+        "cpf_cnpj_reu": "14222220809",
+        "valor_causa": "R$ 25.407,93",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 283,
+        "numero_processo": "11114127520218260100",
+        "nome_reu": "DONA DAMA RESTAURANTE LTDA ME",
+        "cpf_cnpj_reu": "08631423000111",
+        "valor_causa": "R$ 40.783,37",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 284,
+        "numero_processo": "10208787320218260007",
+        "nome_reu": "JEFFERSON TADEU TAVARES DA SILVA",
+        "cpf_cnpj_reu": "16291584883",
+        "valor_causa": "R$ 102.985,38",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 285,
+        "numero_processo": "10750541420218260100",
+        "nome_reu": "DUNIA BAROUDI",
+        "cpf_cnpj_reu": "24097771809",
+        "valor_causa": "R$ 368.880,81",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 286,
+        "numero_processo": "10542148020218260100",
+        "nome_reu": "ROGERIO SEABRA DA CRUZ NOVO",
+        "cpf_cnpj_reu": "28975865835",
+        "valor_causa": "R$ 155.846,28",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 287,
+        "numero_processo": "10515576820218260100",
+        "nome_reu": "JUNG HEE KI",
+        "cpf_cnpj_reu": "23386235840",
+        "valor_causa": "R$ 329.171,74",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 288,
+        "numero_processo": "10201030720208260100",
+        "nome_reu": "DONGYOUNG LEE",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 177.472,19",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 289,
+        "numero_processo": "10127894420198260100",
+        "nome_reu": "COM STAR CONFECCOES DE ROUPAS LTDA.",
+        "cpf_cnpj_reu": "18128646000114",
+        "valor_causa": "R$ 241.610,31",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 290,
+        "numero_processo": "10735109320188260100",
+        "nome_reu": "JOANA VIEGAS SOUSA",
+        "cpf_cnpj_reu": "27845605387",
+        "valor_causa": "R$ 11.465,34",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 291,
+        "numero_processo": "10392465020188260100",
+        "nome_reu": "LOURENCO TADEU CARDOSO SOARES",
+        "cpf_cnpj_reu": "72984201353",
+        "valor_causa": "R$ 89.527,14",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 292,
+        "numero_processo": "10163033920188260100",
+        "nome_reu": "IRINEU PSANQUEVICH",
+        "cpf_cnpj_reu": "03891310838",
+        "valor_causa": "R$ 43.156,51",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 293,
+        "numero_processo": "10127707220188260100",
+        "nome_reu": "IRINEU PSANQUEVICH",
+        "cpf_cnpj_reu": "03891310838",
+        "valor_causa": "R$ 25.938,59",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 294,
+        "numero_processo": "10430124820178260100",
+        "nome_reu": "BRAS E FIGUEIREDO INF SC LTDA",
+        "cpf_cnpj_reu": "69093979000196",
+        "valor_causa": "R$ 30.049,46",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 295,
+        "numero_processo": "11129852720168260100",
+        "nome_reu": "FACE DE: JOSÉ EUDES NASCIMENTO SILVA",
+        "cpf_cnpj_reu": "03477467302",
+        "valor_causa": "R$ 64.931,23",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 296,
+        "numero_processo": "10477891320168260100",
+        "nome_reu": ": RUI FILIPE ALCOBIA MENDES",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 119.417,65",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 297,
+        "numero_processo": "10118523920168260100",
+        "nome_reu": "CP CERULLI PLANEJAMENTO E OBRAS EPP",
+        "cpf_cnpj_reu": "14021847000167",
+        "valor_causa": "R$ 28.483,80",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 298,
+        "numero_processo": "10014286920158260100",
+        "nome_reu": "BRAZILIAN MORTGAGES COMPANHIA HIPOTECÁRIA",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 10.000,00",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 299,
+        "numero_processo": "10263960320148260100",
+        "nome_reu": "FACE DE: HASSAN ALI EL GHARIB CONFECÇÕES - ME",
+        "cpf_cnpj_reu": "12020150000146",
+        "valor_causa": "R$ 64.405,00",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 300,
+        "numero_processo": "10862928820258260100",
+        "nome_reu": ": HO KIEN WOH",
+        "cpf_cnpj_reu": "15094733869",
+        "valor_causa": "R$ 164.151,80",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 301,
+        "numero_processo": "10862971320258260100",
+        "nome_reu": ": HO KIEN WAH",
+        "cpf_cnpj_reu": "15094733869",
+        "valor_causa": "R$ 102.902,67",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 302,
+        "numero_processo": "10863456920258260100",
+        "nome_reu": ": ENA LAZARA XAVIER DE CASTRO",
+        "cpf_cnpj_reu": "46095500672",
+        "valor_causa": "R$ 151.481,07",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 303,
+        "numero_processo": "10863075720258260100",
+        "nome_reu": ": MARCUS AURELIO GRESKIV LEITAO",
+        "cpf_cnpj_reu": "22530308802",
+        "valor_causa": "R$ 119.356,77",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 304,
+        "numero_processo": "10862876620258260100",
+        "nome_reu": ": MARCUS AURELIO GRESKIV LEITAO",
+        "cpf_cnpj_reu": "22530308802",
+        "valor_causa": "R$ 111.571,01",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 305,
+        "numero_processo": "10862746720258260100",
+        "nome_reu": ": SIMONE APARECIDA CORREIA GRISARD",
+        "cpf_cnpj_reu": "29002335857",
+        "valor_causa": "R$ 132.451,34",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 306,
+        "numero_processo": "10862547620258260100",
+        "nome_reu": ": EDUARDO REIS",
+        "cpf_cnpj_reu": "31655335049",
+        "valor_causa": "R$ 369.399,91",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 307,
+        "numero_processo": "10724763920258260100",
+        "nome_reu": ": HELENA HIROKO HIGA DAINESE",
+        "cpf_cnpj_reu": "00431997802",
+        "valor_causa": "R$ 217.048,15",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 308,
+        "numero_processo": "10723837620258260100",
+        "nome_reu": ": HO KIEN WAH",
+        "cpf_cnpj_reu": "15094733869",
+        "valor_causa": "R$ 223.641,42",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 309,
+        "numero_processo": "10723638520258260100",
+        "nome_reu": ": MARIA CRISTINA CAPONERO",
+        "cpf_cnpj_reu": "05939578810",
+        "valor_causa": "R$ 125.970,68",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 310,
+        "numero_processo": "10674246220258260100",
+        "nome_reu": ": RX MATERIAIS ELETRICOS E DE CONSTRUCAO LTDA",
+        "cpf_cnpj_reu": "47608257000194",
+        "valor_causa": "R$ 260.711,30",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 311,
+        "numero_processo": "10674081120258260100",
+        "nome_reu": ": SIMONE APARECIDA CORREIA",
+        "cpf_cnpj_reu": "29002335857",
+        "valor_causa": "R$ 153.605,80",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 312,
+        "numero_processo": "10030287620258260100",
+        "nome_reu": ": LUIZ ROBERTO CARDONA DA SILVA",
+        "cpf_cnpj_reu": "02960500830",
+        "valor_causa": "R$ 104.918,44",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 313,
+        "numero_processo": "10257552920258260100",
+        "nome_reu": ": BARTOLOMEU LUIZ OLIVEIRA",
+        "cpf_cnpj_reu": "05564733703",
+        "valor_causa": "R$ 312.734,96",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 314,
+        "numero_processo": "10254764320258260100",
+        "nome_reu": ": SALOMAO SIU",
+        "cpf_cnpj_reu": "28793321848",
+        "valor_causa": "R$ 203.790,04",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 315,
+        "numero_processo": "12007306420248260100",
+        "nome_reu": ": LUIZ ROBERTO CARDONA DA SILVA",
+        "cpf_cnpj_reu": "02960500830",
+        "valor_causa": "R$ 129.166,65",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 316,
+        "numero_processo": "11996965420248260100",
+        "nome_reu": "TADO",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 144.195,02",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 317,
+        "numero_processo": "11897003220248260100",
+        "nome_reu": ": CLEMISON MONTEIRO DOS SANTOS",
+        "cpf_cnpj_reu": "28729393850",
+        "valor_causa": "R$ 110.129,27",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 318,
+        "numero_processo": "11896691220248260100",
+        "nome_reu": "TADO",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 153.485,38",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 319,
+        "numero_processo": "11858852720248260100",
+        "nome_reu": "ANA CAROLINA CAPINZAIKI DE MORAES NAVARRO",
+        "cpf_cnpj_reu": "25664370840",
+        "valor_causa": "R$ 108.420,35",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 320,
+        "numero_processo": "11388905320248260100",
+        "nome_reu": "TADO",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 182.558,38",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 321,
+        "numero_processo": "10773137420248260100",
+        "nome_reu": "EDUARDO MARTINS DA COSTA LIMA",
+        "cpf_cnpj_reu": "05380740430",
+        "valor_causa": "R$ 146.703,87",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 322,
+        "numero_processo": "10773059720248260100",
+        "nome_reu": "TADO POR CANAIS DIGITAIS",
+        "cpf_cnpj_reu": "41610673000140",
+        "valor_causa": "R$ 219.430,69",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 323,
+        "numero_processo": "10772548620248260100",
+        "nome_reu": "TADO POR CANAIS DIGITAIS",
+        "cpf_cnpj_reu": "39541132871",
+        "valor_causa": "R$ 188.748,29",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 324,
+        "numero_processo": "10772392020248260100",
+        "nome_reu": "TADO POR CANAIS DIGITAIS",
+        "cpf_cnpj_reu": "53595823834",
+        "valor_causa": "R$ 234.194,38",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 325,
+        "numero_processo": "10602096920248260100",
+        "nome_reu": "NADIA APARECIDA BOSSA",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 115.160,50",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 326,
+        "numero_processo": "10130693920248260100",
+        "nome_reu": "TO DE EMPRÉSTIMO – CAGIRO REORGANIZAÇÃO FINANCEIRA EM 07\/07\/2022",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 351.570,93",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 327,
+        "numero_processo": "10108577220238260361",
+        "nome_reu": "TADO POR CANAIS DIGITAIS E ASSINADO DIGITALMENTE",
+        "cpf_cnpj_reu": "23766720821",
+        "valor_causa": "R$ 164.972,74",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 328,
+        "numero_processo": "11072818620238260100",
+        "nome_reu": "ECHONOMIDIA COMERCIO LTDA",
+        "cpf_cnpj_reu": "10371321000156",
+        "valor_causa": "R$ 300.410,19",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 329,
+        "numero_processo": "10629017520238260100",
+        "nome_reu": "(I) VERTTICAL MODAS LTDA",
+        "cpf_cnpj_reu": "47234510000197",
+        "valor_causa": "R$ 137.000,54",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 330,
+        "numero_processo": "10657225220238260100",
+        "nome_reu": "HEE JIN KO",
+        "cpf_cnpj_reu": "22783284847",
+        "valor_causa": "R$ 523.236,40",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 331,
+        "numero_processo": "10645290220238260100",
+        "nome_reu": "D LUCCA ARTIGOS DO VESTUARIO LTDA",
+        "cpf_cnpj_reu": "38713512000178",
+        "valor_causa": "R$ 135.194,10",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 332,
+        "numero_processo": "10549745820238260100",
+        "nome_reu": "MARCO ANTONIO SILVA JANJULIO",
+        "cpf_cnpj_reu": "08423773876",
+        "valor_causa": "R$ 83.946,68",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 333,
+        "numero_processo": "10384499820238260100",
+        "nome_reu": "CAYK RODRIGO BERNARDO DE OLIVEIRA",
+        "cpf_cnpj_reu": "35783495859",
+        "valor_causa": "R$ 327.127,74",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 334,
+        "numero_processo": "10122694520238260100",
+        "nome_reu": "RENOVAFIX IMPORTACAO E EXPORTACAO EIRELI",
+        "cpf_cnpj_reu": "17030654000160",
+        "valor_causa": "R$ 169.929,97",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 335,
+        "numero_processo": "11380987020228260100",
+        "nome_reu": "FESTUNG CAFE EIRELI",
+        "cpf_cnpj_reu": "21479034000180",
+        "valor_causa": "R$ 164.988,19",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 336,
+        "numero_processo": "11441083320228260100",
+        "nome_reu": "ULTRACLIC METALURGICA",
+        "cpf_cnpj_reu": "16798568000130",
+        "valor_causa": "R$ 546.275,33",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 337,
+        "numero_processo": "11381774920228260100",
+        "nome_reu": "OCTAVIO DAVID MONTERROZA HUMANEZ",
+        "cpf_cnpj_reu": "06160157710",
+        "valor_causa": "R$ 108.166,36",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 338,
+        "numero_processo": "11380727220228260100",
+        "nome_reu": "BRONKS INDUSTRIA E COMERCIO DE ROUPAS E ACESSORIOS EIRELI",
+        "cpf_cnpj_reu": "21001510000153",
+        "valor_causa": "R$ 290.948,17",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 339,
+        "numero_processo": "11332105820228260100",
+        "nome_reu": "JOAO HENRIQUE BEZERRA CUNHA FERNANDES",
+        "cpf_cnpj_reu": "03659888397",
+        "valor_causa": "R$ 153.922,43",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 340,
+        "numero_processo": "11275672220228260100",
+        "nome_reu": "FESTUNG CAFÉ EIRELI",
+        "cpf_cnpj_reu": "21479034000180",
+        "valor_causa": "R$ 189.366,25",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 341,
+        "numero_processo": "11169024420228260100",
+        "nome_reu": "JOAO LUIZ NEGRI",
+        "cpf_cnpj_reu": "01808730836",
+        "valor_causa": "R$ 136.355,46",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 342,
+        "numero_processo": "10357967120258260224",
+        "nome_reu": ": MARIO FERREIRA NETO",
+        "cpf_cnpj_reu": "08218488448",
+        "valor_causa": "R$ 107.120,97",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 343,
+        "numero_processo": "11198032420188260100",
+        "nome_reu": "D & C BIJOUTERIAS E ACESSORIOS LTDA EPP",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 182.801,90",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 344,
+        "numero_processo": "10808161620188260100",
+        "nome_reu": ": SUNG MIN JEON",
+        "cpf_cnpj_reu": "23379922846",
+        "valor_causa": "R$ 94.814,22",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 345,
+        "numero_processo": "10437838920188260100",
+        "nome_reu": "ANTONIO CARLOS FIORILLO",
+        "cpf_cnpj_reu": "93853980830",
+        "valor_causa": "R$ 73.461,79",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 346,
+        "numero_processo": "10760378620168260100",
+        "nome_reu": "FACE DE: CAISMA ILUMINAÇÕES LTDA",
+        "cpf_cnpj_reu": "03272167000108",
+        "valor_causa": "R$ 1.216.585,88",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 347,
+        "numero_processo": "01380420620128260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 16.948,98",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 348,
+        "numero_processo": "01361085220088260100",
+        "nome_reu": "TOS BANCÁRIOS REQUERENTE: BANCO BRADESCO S\/A REQUERIDO: JOÃO DOMINGOS ANTONIO BOGGIO E OUTRO C E R T I D Ã O CERTIFICO E DOU FÉ QUE",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 137.436,81",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 349,
+        "numero_processo": "10096867320228260019",
+        "nome_reu": "ROGERIO APARECIDO TOLINI",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 199.363,06",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 350,
+        "numero_processo": "10024074220238260038",
+        "nome_reu": "RAFAEL LOPES FRAGOSO",
+        "cpf_cnpj_reu": "33783863805",
+        "valor_causa": "R$ 267.091,66",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 351,
+        "numero_processo": "10057094320248260071",
+        "nome_reu": "FACE DE PRISCILA EMILIO DE OLIVEIRA ANDRADE",
+        "cpf_cnpj_reu": "32215375817",
+        "valor_causa": "R$ 347.325,25",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 352,
+        "numero_processo": "10064641520258260077",
+        "nome_reu": "BANCO BRADESCO FINANCIAMENTOS S\/A",
+        "cpf_cnpj_reu": "07207996000150",
+        "valor_causa": "R$ 4.655,98",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 353,
+        "numero_processo": "10043454620238260079",
+        "nome_reu": "TO N. RPM\/4046287  CONTA N. 61537  AGÊNCIA N. 201 PARA CONFERIR O ORIGINAL",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 264.344,75",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 354,
+        "numero_processo": "10030832920228260101",
+        "nome_reu": "SEBASTIAO CARLOS DE FARIA",
+        "cpf_cnpj_reu": "02613052805",
+        "valor_causa": "R$ 739.338,78",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 355,
+        "numero_processo": "10587814420238260114",
+        "nome_reu": "P C DA SILVA CONSTRUÇÕES",
+        "cpf_cnpj_reu": "31691927000149",
+        "valor_causa": "R$ 337.270,98",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 356,
+        "numero_processo": "10076970420238260114",
+        "nome_reu": "TO N. PCA\/4473688  CONTA N. 67896  AGÊNCIA N. 1668 PARA CONFERIR O ORIGINAL",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 240.760,21",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 357,
+        "numero_processo": "10002834520238260084",
+        "nome_reu": "BEBIDAS ORIGINAIS COMERCIAL EIRELI",
+        "cpf_cnpj_reu": "00818980300014",
+        "valor_causa": "R$ 110.585,22",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 358,
+        "numero_processo": "00039409420048260272",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 5.000,00",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 359,
+        "numero_processo": "10015139820238260286",
+        "nome_reu": "CASA DE CARNES SANTA RITA",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 48.162,76",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 360,
+        "numero_processo": "10271504520248260309",
+        "nome_reu": "BANCO BRADESCO FINANCIAMENTOS S\/A",
+        "cpf_cnpj_reu": "07207996000150",
+        "valor_causa": "R$ 14.805,11",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 361,
+        "numero_processo": "10122543120238260309",
+        "nome_reu": "RENATA CARLA BUZZATO",
+        "cpf_cnpj_reu": "17886156897",
+        "valor_causa": "R$ 165.004,85",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 362,
+        "numero_processo": "10880414320258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 206.476,63",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 363,
+        "numero_processo": "10847893220258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 170.752,37",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 364,
+        "numero_processo": "10808383020258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 126.934,05",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 365,
+        "numero_processo": "10699500220258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 349.515,71",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 366,
+        "numero_processo": "10751404320258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 143.622,93",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 367,
+        "numero_processo": "10724989720258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 119.367,05",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 368,
+        "numero_processo": "10351106320258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 106.930,49",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 369,
+        "numero_processo": "10631696120258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 105.226,75",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 370,
+        "numero_processo": "10551177620258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 107.310,93",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 371,
+        "numero_processo": "10503543220258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 117.857,56",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 372,
+        "numero_processo": "10496727720258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 276.935,21",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 373,
+        "numero_processo": "10496684020258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 135.173,70",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 374,
+        "numero_processo": "10448192520258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 108.410,00",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 375,
+        "numero_processo": "10336694720258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 111.290,50",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 376,
+        "numero_processo": "10316186320258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 214.758,84",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 377,
+        "numero_processo": "10273280520258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 359.432,15",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 378,
+        "numero_processo": "10255595920258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 117.613,97",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 379,
+        "numero_processo": "10255422320258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 366.509,32",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 380,
+        "numero_processo": "10238672520258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 281.040,16",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 381,
+        "numero_processo": "10201267420258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 280.859,96",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 382,
+        "numero_processo": "10201102320258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 411.982,45",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 383,
+        "numero_processo": "10155763620258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 134.204,71",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 384,
+        "numero_processo": "10088722020248260010",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 967.802,17",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 385,
+        "numero_processo": "10111143620258260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 109.623,18",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 386,
+        "numero_processo": "12030871720248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 373.572,09",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 387,
+        "numero_processo": "11956060320248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 91.393,82",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 388,
+        "numero_processo": "11923479720248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 162.478,45",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 389,
+        "numero_processo": "11923029320248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 112.883,32",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 390,
+        "numero_processo": "11908972220248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 108.262,20",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 391,
+        "numero_processo": "11906763920248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 469.849,02",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 392,
+        "numero_processo": "11795699520248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 199.761,20",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 393,
+        "numero_processo": "11620492520248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 103.525,09",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 394,
+        "numero_processo": "11565713620248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 145.646,68",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 395,
+        "numero_processo": "10011335120238260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 200.386,29",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 396,
+        "numero_processo": "11076764420248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 132.375,39",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 397,
+        "numero_processo": "11018070320248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 117.779,50",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 398,
+        "numero_processo": "10960511320248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 125.236,40",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 399,
+        "numero_processo": "10910678320248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 154.490,84",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 400,
+        "numero_processo": "10902311320248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 106.739,28",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 401,
+        "numero_processo": "10800488020248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 171.201,91",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 402,
+        "numero_processo": "10690210320248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 107.084,97",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 403,
+        "numero_processo": "10653142720248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 186.298,12",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 404,
+        "numero_processo": "10518511820248260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 46.822,88",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 405,
+        "numero_processo": "10294875220248260100",
+        "nome_reu": "TO DE EMPRÉSTIMO – CRÉDITO PESSOAL EM 22\/08\/2022",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 325.734,67",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 406,
+        "numero_processo": "11680860520238260100",
+        "nome_reu": "FABIO VIEIRA AOKI ME",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 218.719,33",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 407,
+        "numero_processo": "11579487620238260100",
+        "nome_reu": "TUAIS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 322.828,75",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 408,
+        "numero_processo": "11492568820238260100",
+        "nome_reu": "TUAIS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 116.843,77",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 409,
+        "numero_processo": "11424105520238260100",
+        "nome_reu": "SUPERMERCADO RODELLE EIRELI",
+        "cpf_cnpj_reu": "30247037000180",
+        "valor_causa": "R$ 155.148,78",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 410,
+        "numero_processo": "11331721220238260100",
+        "nome_reu": "MARCELO LEANDRO DOS PASSOS",
+        "cpf_cnpj_reu": "35740678870",
+        "valor_causa": "R$ 244.465,49",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 411,
+        "numero_processo": "11331712720238260100",
+        "nome_reu": "PRISCILA REIS DA SILVA",
+        "cpf_cnpj_reu": "34433362808",
+        "valor_causa": "R$ 253.387,18",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 412,
+        "numero_processo": "11306345820238260100",
+        "nome_reu": "RDMP BAR E RESTAURANTE EIRELI",
+        "cpf_cnpj_reu": "17688232000187",
+        "valor_causa": "R$ 137.506,02",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 413,
+        "numero_processo": "10928045820238260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 384.675,09",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 414,
+        "numero_processo": "10031809220238260004",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 145.640,82",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 415,
+        "numero_processo": "10555903320238260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 173.132,04",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 416,
+        "numero_processo": "10444872920238260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 344.415,64",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 417,
+        "numero_processo": "10332119820238260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 188.618,72",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 418,
+        "numero_processo": "10231213120238260100",
+        "nome_reu": "MARINALVA BARROS DA ROCHA DE OLIVEIRA LI",
+        "cpf_cnpj_reu": "18517462000146",
+        "valor_causa": "R$ 322.276,49",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 419,
+        "numero_processo": "10077512520228260010",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 935.299,61",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 420,
+        "numero_processo": "11318188320228260100",
+        "nome_reu": "PAULISTA IMPORTADORA E EXPORTADORA LTDA",
+        "cpf_cnpj_reu": "08167144000149",
+        "valor_causa": "R$ 240.108,05",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 421,
+        "numero_processo": "11313190220228260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 137.768,58",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 422,
+        "numero_processo": "11088289820228260100",
+        "nome_reu": "VERANILDO FERREIRA DE OLIVEIRA",
+        "cpf_cnpj_reu": "28139579000197",
+        "valor_causa": "R$ 111.433,67",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 423,
+        "numero_processo": "11070430420228260100",
+        "nome_reu": "CAROLINE OLIVEIRA PIRONE 24446215817",
+        "cpf_cnpj_reu": "24446215817",
+        "valor_causa": "R$ 68.404,09",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 424,
+        "numero_processo": "11061761120228260100",
+        "nome_reu": "PATRICIA MENEZ ESCOLA DE ARAUJO",
+        "cpf_cnpj_reu": "32309383805",
+        "valor_causa": "R$ 172.542,45",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 425,
+        "numero_processo": "10997030920228260100",
+        "nome_reu": "CARROSSEL DO BEBE ROUPAS E ACESSORIOS EI",
+        "cpf_cnpj_reu": "33977861000183",
+        "valor_causa": "R$ 149.598,13",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 426,
+        "numero_processo": "10696131820228260100",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 107.030,76",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 427,
+        "numero_processo": "10756604720188260100",
+        "nome_reu": "RODRIGO BAETA DA COSTA BRITES",
+        "cpf_cnpj_reu": "27737959890",
+        "valor_causa": "R$ 21.679,34",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 428,
+        "numero_processo": "10840859720178260100",
+        "nome_reu": "TO DE CRÉDITO FIRMADO NA CONTA CORRENTE DE TITULARIDADE DA EMPRESA REQUERIDA",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 69.747,13",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 429,
+        "numero_processo": "10800968320178260100",
+        "nome_reu": "TO DE ABERTURA DE CONTA CORRENTE",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 51.494,84",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 430,
+        "numero_processo": "10608059720178260100",
+        "nome_reu": "TUAL",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 10.000,00",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 431,
+        "numero_processo": "11213515520168260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 124.290,83",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 432,
+        "numero_processo": "10593714420158260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 112.004,83",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 433,
+        "numero_processo": "10422004020168260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 143.117,49",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 434,
+        "numero_processo": "10006791820168260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 61.348,55",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 435,
+        "numero_processo": "11299882920158260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 133.816,27",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 436,
+        "numero_processo": "11046695920158260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 33.223,76",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 437,
+        "numero_processo": "11041317820158260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 110.439,89",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 438,
+        "numero_processo": "10841749120158260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 112.669,10",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 439,
+        "numero_processo": "10425307120158260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 62.237,98",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 440,
+        "numero_processo": "10925240520148260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 100.720,70",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 441,
+        "numero_processo": "10553730520148260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 97.288,46",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 442,
+        "numero_processo": "10515156320148260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 69.214,88",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 443,
+        "numero_processo": "10354777320148260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 97.171,31",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 444,
+        "numero_processo": "10236887720148260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 44.605,45",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 445,
+        "numero_processo": "10916055020138260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 49.150,18",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 446,
+        "numero_processo": "10879341920138260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 49.975,51",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 447,
+        "numero_processo": "10554998920138260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 31.153,60",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 448,
+        "numero_processo": "10273152620138260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 44.274,34",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 449,
+        "numero_processo": "10212761320138260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 32.244,88",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 450,
+        "numero_processo": "01236108920068260100",
+        "nome_reu": "M ENCARTADAS AOS AUTOS. SÃO AS PRETENSÕES. NESTES TERMOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 23.821,97",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 451,
+        "numero_processo": "00885838919998260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 140.417,94",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 452,
+        "numero_processo": "10108758120258260019",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 109.590,38",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 453,
+        "numero_processo": "10095827620258260019",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 144.430,30",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 454,
+        "numero_processo": "10073404720258260019",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 119.985,59",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 455,
+        "numero_processo": "10041151920258260019",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 174.961,34",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 456,
+        "numero_processo": "10011905020258260019",
+        "nome_reu": "TOS",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 238.293,17",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 457,
+        "numero_processo": "01487124020118260100",
+        "nome_reu": "MARLIM AZUL COMÉRCIO ATACADISTA DE TECIDOS E RETALHOS LTDA E OUTRO",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 56.116,61",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 458,
+        "numero_processo": "10026103120238260514",
+        "nome_reu": "CLAUDINEIA JANUARIO DOS SANTOS",
+        "cpf_cnpj_reu": "31607872811",
+        "valor_causa": "R$ 217.448,88",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 459,
+        "numero_processo": "10133145620248260001",
+        "nome_reu": "AJ MED HOSPITALAR LTDA",
+        "cpf_cnpj_reu": "48190394000114",
+        "valor_causa": "R$ 690.838,02",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 460,
+        "numero_processo": "10207045320198260001",
+        "nome_reu": "LAZARO AUGUSTO DUMONT",
+        "cpf_cnpj_reu": "08798052853",
+        "valor_causa": "R$ 125.739,53",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 461,
+        "numero_processo": "10585725220258260002",
+        "nome_reu": "JOSE MARCOS LEITE DA SILVA",
+        "cpf_cnpj_reu": "06405387895",
+        "valor_causa": "R$ 108.880,90",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 462,
+        "numero_processo": "10791735020238260002",
+        "nome_reu": "VICTOR KOLOSZUK",
+        "cpf_cnpj_reu": "42228123820",
+        "valor_causa": "R$ 268.607,33",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 463,
+        "numero_processo": "10360872620238260100",
+        "nome_reu": "MERCADINHO B LTDA",
+        "cpf_cnpj_reu": "43980599000180",
+        "valor_causa": "R$ 170.459,15",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 464,
+        "numero_processo": "10241366920228260003",
+        "nome_reu": "FERNANDO LUIZ PORTELA DE OLIVEIRA",
+        "cpf_cnpj_reu": "26899453800",
+        "valor_causa": "R$ 211.027,89",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 465,
+        "numero_processo": "10130059420228260004",
+        "nome_reu": "PHILLIPE GUINE BIRAL",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 314.607,81",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 466,
+        "numero_processo": "10063032720258260005",
+        "nome_reu": "LETICIA STRADIOTI TRINDADE",
+        "cpf_cnpj_reu": "41842327879",
+        "valor_causa": "R$ 129.025,33",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 467,
+        "numero_processo": "10064455620248260008",
+        "nome_reu": "PODE COMPRAR COMERCIO",
+        "cpf_cnpj_reu": "24582296000164",
+        "valor_causa": "R$ 767.881,40",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 468,
+        "numero_processo": "10547271420228260100",
+        "nome_reu": "TUAIS COMO ENTABULADO ENTRE AS PARTES",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 760.091,87",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 469,
+        "numero_processo": "10241470620198260100",
+        "nome_reu": "BRADESCO S\/A",
+        "cpf_cnpj_reu": "60746948000112",
+        "valor_causa": "R$ 1.800.000,00",
+        "status": "APROVADO"
+    },
+    {
+        "id": 470,
+        "numero_processo": "10122420420198260100",
+        "nome_reu": "BV FINANCEIRA S.A CREDITO FINANCIAMENTO E INVESTIMENTO",
+        "cpf_cnpj_reu": "01149953000189",
+        "valor_causa": "R$ 35.909,24",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 471,
+        "numero_processo": "10762510920188260100",
+        "nome_reu": "BANCO PAN S.A",
+        "cpf_cnpj_reu": "59285411000113",
+        "valor_causa": "R$ 331.865,53",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 472,
+        "numero_processo": "10563470320188260100",
+        "nome_reu": "BV FINANCEIRA S.A CREDITO FINANCIAMENTO E INVESTIMENTO",
+        "cpf_cnpj_reu": "01149953000189",
+        "valor_causa": "R$ 22.459,20",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 473,
+        "numero_processo": "10484459620188260100",
+        "nome_reu": "BANCO PAN S.A",
+        "cpf_cnpj_reu": "59285411000113",
+        "valor_causa": "R$ 10.842,48",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 474,
+        "numero_processo": "10166212220188260100",
+        "nome_reu": "BANCO PAN S.A",
+        "cpf_cnpj_reu": "59285411000113",
+        "valor_causa": "R$ 9.802,56",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 475,
+        "numero_processo": "10134003120188260100",
+        "nome_reu": "FACE DE: JING YOUNG CHOI",
+        "cpf_cnpj_reu": "23409148841",
+        "valor_causa": "R$ 31.677,93",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 476,
+        "numero_processo": "10046261220188260100",
+        "nome_reu": "BANCO PAN S.A",
+        "cpf_cnpj_reu": "59285411000113",
+        "valor_causa": "R$ 15.123,86",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 477,
+        "numero_processo": "10551764520178260100",
+        "nome_reu": "TO. A AUTORA SOLICITOU UMA CÓPIA DO CONTRATO DE FINANCIAMENTO JUNTO AO BANCO E QUE APÓS MINUCIOSA ANÁLISE CONSTATOU A PRÁTICA DE COBRANÇAS ILEGAIS E JAMAIS INFORMADAS QUE MAJORARAM INDEVIDAMENTE O VALOR TOTAL DO FINANCIAMENTO E",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 10.000,00",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 478,
+        "numero_processo": "10853454920168260100",
+        "nome_reu": ": CARMELINDA NEVES KOGA",
+        "cpf_cnpj_reu": "26776715815",
+        "valor_causa": "R$ 45.242,34",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 479,
+        "numero_processo": "10287243220168260100",
+        "nome_reu": "BANCO PANAMERICANO S.A",
+        "cpf_cnpj_reu": "59285411000113",
+        "valor_causa": "R$ 40.884,00",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 480,
+        "numero_processo": "10394867820148260100",
+        "nome_reu": "TO",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 1.000,00",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 481,
+        "numero_processo": "10039036620138260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 34.142,32",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 482,
+        "numero_processo": "01704675720108260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 87.500,00",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 483,
+        "numero_processo": "10034046120218260081",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 122.707,81",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 484,
+        "numero_processo": "10118670820228260032",
+        "nome_reu": "TUAIS COMO ENTABULADO ENTRE AS PARTES",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 70.935,32",
+        "status": "PENDENTE"
+    },
+    {
+        "id": 485,
+        "numero_processo": "10772071520248260100",
+        "nome_reu": "Não encontrado",
+        "cpf_cnpj_reu": "Não encontrado",
+        "valor_causa": "R$ 172.084,73",
+        "status": "PENDENTE"
+    }
+]

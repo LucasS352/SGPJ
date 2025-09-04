@@ -1,26 +1,28 @@
 <?php
 
 namespace App\Models;
+
 use Illuminate\Database\Eloquent\Model;
 
-class Processo extends Model {
+class Processo extends Model
+{
     protected $fillable = [
-        'numero_processo', 'nome_reu', 'cpf_cnpj_reu',
-        'valor_causa', 'status', 'folder_id'
+        'numero_processo',
+        'nome_reu',
+        'cpf_cnpj_reu',
+        'valor_causa',
+        'status'
     ];
 
-    public function folder() {
-        return $this->belongsTo(Folder::class);
+    public function folders() {
+        return $this->belongsToMany(Folder::class, 'folder_process_association', 'processo_id', 'folder_id')
+                    ->withPivot('observation');
     }
-}
 
-namespace App\Models;
-use Illuminate\Database\Eloquent\Model;
-
-class Folder extends Model {
-    protected $fillable = ['name'];
-
-    public function processos() {
-        return $this->hasMany(Processo::class);
+    public function getValorCausaFloatAttribute()
+    {
+        $valor = str_replace(['R$', '.', ' '], '', $this->valor_causa);
+        $valor = str_replace(',', '.', $valor);
+            return (float)$valor;
     }
 }

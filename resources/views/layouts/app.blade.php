@@ -14,7 +14,7 @@
     <nav class="bg-blue-600 text-white px-6 py-4 flex justify-between items-center">
         <a href="{{ url('/') }}" class="text-lg font-bold">SGPJ</a>
         <div class="space-x-4">
-            <a href="{{ url('/folders') }}" class="hover:underline">Pastas</a>
+            <a href="{{ url('/pastas') }}" class="hover:underline">Pastas</a>
             <a href="{{ url('/processos') }}" class="hover:underline">Processos</a>
         </div>
     </nav>
