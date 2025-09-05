@@ -2,12 +2,14 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\Api\AuthController;
+use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\Api\ProcessoController;
 use App\Http\Controllers\Api\FolderController;
 
-Route::get('/user', function (Request $request) {
+Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
-})->middleware('auth:sanctum');
+});
 
 Route::get('/processos', [ProcessoController::class, 'index']);
 Route::patch('/processos/{processo}/status', [ProcessoController::class, 'updateStatus']);
