@@ -4,6 +4,13 @@
 <div class="container mt-4">
     <h1 class="mb-4">Painel de Processos</h1>
 
+    <div class="card mb-4">
+        <div class="card-body">
+            <h5 class="card-title fw-semibold">Análise de Processos</h5>
+        <div id="profit"></div>
+    </div>
+    </div>
+
     {{-- Alerts --}}
     @if(session('success')) <div class="alert alert-success">{{ session('success') }}</div> @endif
     @if(session('error')) <div class="alert alert-danger">{{ session('error') }}</div> @endif
@@ -107,4 +114,23 @@ document.getElementById('folderSelect').addEventListener('change', function(e) {
     toggleAssignButton();
 });
 </script>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    var options = {
+        chart: { type: 'bar', height: 350 },
+        series: [{
+            name: 'Processos',
+            data: [10, 25, 15, 5] // <- futuramente puxa do banco
+        }],
+        xaxis: {
+            categories: ['100k-300k', '300k-500k', '500k+', 'Pendentes']
+        }
+    };
+
+    var chart = new ApexCharts(document.querySelector("#profit"), options);
+    chart.render();
+});
+</script>
+
 @endsection
