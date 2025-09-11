@@ -28,6 +28,23 @@ class FolderController extends Controller
         return redirect()->route('pastas.index')->with('success', 'Pasta criada com sucesso!');
     }
 
+    public function addProcessos(Request $request, Folder $folder)
+    {
+        $request->validate([
+            'processos' => 'required|array',
+            'processos.*' => 'exists:processos,id',
+        ]);
+
+    $attachData = [];
+    foreach ($request->input('processos') as $pid) {
+        $attachData[$pid] = ['observation' => null];
+        }
+
+    $folder->processos()->syncWithoutDetaching($attachData);
+
+    return back()->with('success', 'Processos adicionados à pasta com sucesso!');
+}
+
     public function updateProcesso(Request $request, Folder $folder, Processo $processo)
     {
         $request->validate(['observation' => 'nullable|string']);

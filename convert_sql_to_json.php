@@ -11,10 +11,8 @@ preg_match_all("/INSERT INTO `processos` .*? VALUES\s*(.+?);/is", $sql, $matches
 $allRows = [];
 
 foreach ($matches[1] as $block) {
-    // Remove quebras de linha
     $block = str_replace(["\r", "\n"], '', $block);
 
-    // Divide as tuplas corretamente
     $tuplas = preg_split("/\),\s*\(/", trim($block, "();"));
 
     foreach ($tuplas as $tuple) {
@@ -40,9 +38,8 @@ foreach ($matches[1] as $block) {
             $current .= $char;
         }
 
-        $fields[] = trim($current, " '"); // último campo
+        $fields[] = trim($current, " '");
 
-        // Certifica que existem exatamente 6 campos
         if (count($fields) === 6) {
             $allRows[] = [
                 'id' => (int)$fields[0],
@@ -56,7 +53,6 @@ foreach ($matches[1] as $block) {
     }
 }
 
-// Salva JSON
 file_put_contents($jsonFile, json_encode($allRows, JSON_PRETTY_PRINT | JSON_UNESCAPED_UNICODE));
 
-echo "✅ JSON gerado com sucesso: $jsonFile\n";
+echo " JSON gerado com sucesso: $jsonFile\n";

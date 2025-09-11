@@ -5,10 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@yield('title', 'SGPJ')</title>
 
+    <link rel="icon" href="assets/images/logos/logo.png" type="image/svg+xml">
+    <link rel="icon" href="assets/images/logos/logo.png" type="image/webp">
+    <link rel="apple-touch-icon" href="assets/images/logos/logo.png">
+
     {{-- Tailwind --}}
     <script src="https://cdn.tailwindcss.com"></script>
 
-    {{-- Bootstrap (necessário para o header e dropdowns) --}}
+    {{-- Bootstrap --}}
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 
@@ -24,7 +28,7 @@
     <aside class="w-64 bg-white shadow-md h-screen fixed">
         <div class="p-4 border-b flex justify-between items-center">
             <a href="{{ url('/') }}" class="flex items-center">
-                <img src="{{ asset('assets/images/logos/logo.svg') }}" alt="Logo" class="h-8 mr-2" />
+                <img src="{{ asset('assets/images/logos/logo.png') }}" alt="Logo" class="h-8 mr-2" />
                 <span class="text-xl font-bold">SGPJ</span>
             </a>
         </div>
@@ -32,17 +36,17 @@
         <nav class="mt-4">
             <ul class="space-y-2">
                 <li>
-                    <a href="{{ url('/pastas') }}"
-                       class="flex items-center px-4 py-2 hover:bg-gray-100 {{ request()->is('pastas*') ? 'bg-blue-100 font-bold' : '' }}">
-                        <iconify-icon icon="solar:folder-line-duotone" class="mr-2"></iconify-icon>
-                        Pastas
-                    </a>
-                </li>
-                <li>
                     <a href="{{ url('/processos') }}"
                        class="flex items-center px-4 py-2 hover:bg-gray-100 {{ request()->is('processos*') ? 'bg-blue-100 font-bold' : '' }}">
                         <iconify-icon icon="solar:document-line-duotone" class="mr-2"></iconify-icon>
                         Processos
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ url('/pastas') }}"
+                       class="flex items-center px-4 py-2 hover:bg-gray-100 {{ request()->is('pastas*') ? 'bg-blue-100 font-bold' : '' }}">
+                        <iconify-icon icon="solar:folder-line-duotone" class="mr-2"></iconify-icon>
+                        Pastas
                     </a>
                 </li>
             </ul>
@@ -62,7 +66,7 @@
                         </a>
                     </li>
                     {{-- Notificações --}}
-                    <li class="nav-item dropdown">
+                    {{-- <li class="nav-item dropdown">
                         <a class="nav-link position-relative" href="#" id="drop1" data-bs-toggle="dropdown">
                             <iconify-icon icon="solar:bell-linear" class="fs-5"></iconify-icon>
                             <span class="position-absolute top-0 start-100 translate-middle p-1 bg-primary border rounded-circle"></span>
@@ -70,7 +74,7 @@
                         <ul class="dropdown-menu" aria-labelledby="drop1">
                             <li><a class="dropdown-item" href="#">Nenhuma notificação</a></li>
                         </ul>
-                    </li>
+                    </li> --}}
                 </ul>
 
                 <div class="ms-auto d-flex align-items-center">

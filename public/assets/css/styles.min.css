@@ -16594,4 +16594,11 @@ ul {
   line-height: 20px;
 }
 
+body {
+    background: linear-gradient(rgba(17, 28, 45, 0.9), rgba(17, 28, 45, 0.9)),
+                url('/assets/images/background.png') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Inter', sans-serif;
+}
+
 /*# sourceMappingURL=styles.min.css.map */

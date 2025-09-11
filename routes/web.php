@@ -33,7 +33,7 @@ Route::get('/processos', function () {
 
 Route::get('/processos', [ProcessoController::class, 'index'])->name('processos.index');
 Route::patch('/processos/{processo}/status', [ProcessoController::class, 'updateStatus'])->name('processos.updateStatus');
-Route::post('/folders/{folder}/add_processos', [ProcessoController::class, 'assignToFolder'])->name('processos.assignToFolder');
+Route::post('/folders/{folder}/add_processos', [FolderController::class, 'addProcessos'])->name('pastas.addProcessos');
 
 Route::get('/pastas', [FolderController::class, 'index'])->name('pastas.index');
 Route::post('/pastas', [FolderController::class, 'store'])->name('pastas.store');

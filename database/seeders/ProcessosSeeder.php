@@ -14,7 +14,7 @@ class ProcessosSeeder extends Seeder
         $json = File::get($path);
         $processos = json_decode($json, true);
 
-        $chunks = array_chunk($processos, 100); // insere em blocos
+        $chunks = array_chunk($processos, 100);
 
         foreach ($chunks as $chunk) {
             DB::table('processos')->insert($chunk);
