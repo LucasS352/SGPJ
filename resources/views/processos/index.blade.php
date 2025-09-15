@@ -1,15 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container mt-4">
-    <h1 class="mb-4">Painel de Processos</h1>
-
-    <div class="card mb-4">
-        <div class="card-body">
-            <h5 class="card-title fw-semibold">Análise de Processos</h5>
-            <div id="profit"></div>
-        </div>
-    </div>
+<div class="container mt-2"> {{-- ALTERADO AQUI: Reduz a margem superior para subir o conteúdo --}}
 
     {{-- Alerts --}}
     @if(session('success')) <div class="alert alert-success">{{ session('success') }}</div> @endif
@@ -24,9 +16,6 @@
     {{-- Abas --}}
     <ul class="nav nav-tabs mb-3">
         <li class="nav-item"><a class="nav-link {{ ($tab ?? 'all')=='all'?'active':'' }}" href="?tab=all">Todos</a></li>
-        <li class="nav-item"><a class="nav-link {{ ($tab ?? '')=='100-300'?'active':'' }}" href="?tab=100-300">R$ 100k - 300k</a></li>
-        <li class="nav-item"><a class="nav-link {{ ($tab ?? '')=='300-500'?'active':'' }}" href="?tab=300-500">R$ 300k - 500k</a></li>
-        <li class="nav-item"><a class="nav-link {{ ($tab ?? '')=='500+'?'active':'' }}" href="?tab=500+">Acima de 500k</a></li>
     </ul>
 
     {{-- Botão de adicionar à pasta --}}
@@ -34,7 +23,8 @@
         @csrf
         {{-- NOTE: inputs dinamicamente criados com name="processos[]" no submit --}}
         <div class="mb-3 d-flex align-items-center gap-2">
-            <select id="folderSelect" class="form-select d-inline w-auto">
+            {{-- ALTERADO AQUI: Adiciona o atributo data-url com um placeholder --}}
+            <select id="folderSelect" class="form-select d-inline w-auto" data-url="{{ route('pastas.addProcessos', ['folder' => '__folderId__']) }}">
                 <option value="">Selecione uma pasta</option>
                 @foreach($folders as $f)
                     <option value="{{ $f->id }}">{{ $f->name }}</option>
@@ -95,83 +85,72 @@
 </div>
 
 <script>
-function getSelectedIds() {
-    return Array.from(document.querySelectorAll('input[name="processo_ids[]"]:checked')).map(cb => cb.value);
-}
+    function getSelectedIds() {
+        return Array.from(document.querySelectorAll('input[name="processo_ids[]"]:checked')).map(cb => cb.value);
+    }
 
-function toggleAssignButton() {
-    const selected = getSelectedIds();
-    const button = document.getElementById('assignButton');
-    const folderSelected = document.getElementById('folderSelect').value;
-    button.disabled = selected.length === 0 || !folderSelected;
-}
-
-const selectAll = document.getElementById('selectAll');
-if (selectAll) {
-    selectAll.addEventListener('change', function(e) {
-        document.querySelectorAll('input[name="processo_ids[]"]').forEach(cb => cb.checked = e.target.checked);
-        toggleAssignButton();
-    });
-}
-
-document.querySelectorAll('input[name="processo_ids[]"]').forEach(cb => {
-    cb.addEventListener('change', toggleAssignButton);
-});
-
-const folderSelect = document.getElementById('folderSelect');
-if (folderSelect) {
-    folderSelect.addEventListener('change', function(e) {
-        const folderId = e.target.value;
-        const form = document.getElementById('assignForm');
-        if (folderId) {
-            form.action = `{{ url('/folders') }}/${folderId}/add_processos`;
-        } else {
-            form.action = "";
-        }
-        toggleAssignButton();
-    });
-}
-
-const assignForm = document.getElementById('assignForm');
-if (assignForm) {
-    assignForm.addEventListener('submit', function(e) {
+    function toggleAssignButton() {
         const selected = getSelectedIds();
-        if (selected.length === 0 || !document.getElementById('folderSelect').value) {
-            e.preventDefault();
-            alert('Selecione ao menos um processo e uma pasta.');
-            return false;
-        }
+        const button = document.getElementById('assignButton');
+        const folderSelected = document.getElementById('folderSelect').value;
+        button.disabled = selected.length === 0 || !folderSelected;
+    }
 
-        this.querySelectorAll('input[name="processos[]"]').forEach(n => n.remove());
-
-        selected.forEach(id => {
-            const inp = document.createElement('input');
-            inp.type = 'hidden';
-            inp.name = 'processos[]';
-            inp.value = id;
-            this.appendChild(inp);
+    const selectAll = document.getElementById('selectAll');
+    if (selectAll) {
+        selectAll.addEventListener('change', function(e) {
+            document.querySelectorAll('input[name="processo_ids[]"]').forEach(cb => cb.checked = e.target.checked);
+            toggleAssignButton();
         });
+    }
 
+    document.querySelectorAll('input[name="processo_ids[]"]').forEach(cb => {
+        cb.addEventListener('change', toggleAssignButton);
     });
-}
+
+    const folderSelect = document.getElementById('folderSelect');
+    if (folderSelect) {
+        folderSelect.addEventListener('change', function(e) {
+            const folderId = e.target.value;
+            const form = document.getElementById('assignForm');
+            // ALTERADO AQUI: Pega a URL do data attribute com o placeholder
+            const urlTemplate = folderSelect.dataset.url;
+            if (folderId) {
+                // ALTERADO AQUI: Substitui o placeholder pelo ID real da pasta
+                form.action = urlTemplate.replace('__folderId__', folderId);
+            } else {
+                form.action = "";
+            }
+            toggleAssignButton();
+        });
+    }
+
+    const assignForm = document.getElementById('assignForm');
+    if (assignForm) {
+        assignForm.addEventListener('submit', function(e) {
+            const selected = getSelectedIds();
+            const folderId = document.getElementById('folderSelect').value;
+
+            if (selected.length === 0 || !folderId) {
+                e.preventDefault();
+                alert('Selecione ao menos um processo e uma pasta.');
+                return false;
+            }
+
+            // Remove inputs dinâmicos antigos
+            this.querySelectorAll('input[name="processos[]"]').forEach(n => n.remove());
+
+            // Cria novos inputs ocultos para cada processo selecionado
+            selected.forEach(id => {
+                const inp = document.createElement('input');
+                inp.type = 'hidden';
+                inp.name = 'processos[]';
+                inp.value = id;
+                this.appendChild(inp);
+            });
+        });
+    }
 </script>
 
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-    var options = {
-        chart: { type: 'bar', height: 350 },
-        series: [{
-            name: 'Processos',
-            data: [10, 25, 15, 5]
-        }],
-        xaxis: {
-            categories: ['100k-300k', '300k-500k', '500k+', 'Pendentes']
-        }
-    };
-
-    var chart = new ApexCharts(document.querySelector("#profit"), options);
-    if (document.querySelector("#profit")) chart.render();
-});
-</script>
 
 @endsection
