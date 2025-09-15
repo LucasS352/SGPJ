@@ -11,19 +11,10 @@ class ProcessoController extends Controller
     public function index(Request $request)
     {
         $search = $request->input('search', '');
-        $tab = $request->input('tab', 'all');
         $sort = $request->input('sort', 'valor_causa');
         $direction = $request->input('direction', 'desc');
 
         $query = Processo::query();
-
-        if ($tab === '100-300') {
-            $query->whereBetween('valor_causa', [100000, 300000]);
-        } elseif ($tab === '300-500') {
-            $query->whereBetween('valor_causa', [300000, 500000]);
-        } elseif ($tab === '500+') {
-            $query->where('valor_causa', '>=', 500000);
-        }
 
         if ($search) {
             $query->where(function ($q) use ($search) {
@@ -32,16 +23,23 @@ class ProcessoController extends Controller
             });
         }
 
-        $processos = $query->orderBy($sort, $direction)->paginate(10)->withQueryString();
+        // Altera a paginação para exibir 20 processos por página
+        $processos = $query->orderBy($sort, $direction)->paginate(20)->withQueryString();
 
         $folders = Folder::all();
 
-        return view('processos.index', compact('processos', 'search', 'tab', 'sort', 'direction', 'folders'));
+        return view('processos.index', compact('processos', 'search', 'sort', 'direction', 'folders'));
     }
 
     public function updateStatus(Request $request, Processo $processo)
     {
+        // Adiciona validação para garantir que o status seja um dos valores permitidos
+        $request->validate([
+            'status' => 'required|in:PENDENTE,APROVADO,REJEITADO'
+        ]);
+
         $processo->update(['status' => $request->status]);
+        
         return back()->with('success', 'Status atualizado com sucesso!');
     }
 
