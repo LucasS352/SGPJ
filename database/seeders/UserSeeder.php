@@ -11,19 +11,37 @@ class UserSeeder extends Seeder
     public function run(): void
     {
         User::updateOrCreate(
-            ['email' => 'lucas@souza.com'],
+            ['email' => 'rafael@sgpj.com'],
+            [
+                'name' => 'Rafael',
+                'password' => Hash::make('rafael123'),
+            ]
+        );
+        {
+        User::updateOrCreate(
+            ['email' => 'bruno@sgpj.com'],
+            [
+                'name' => 'Bruno',
+                'password' => Hash::make('bruno123'),
+            ]
+        );
+
+        {
+        User::updateOrCreate(
+            ['email' => 'renan@sgpj.com'],
             [
                 'name' => 'Lucas',
-                'password' => Hash::make('123'),
+                'password' => Hash::make('renan123'),
             ]
         );
 
         User::updateOrCreate(
-            ['email' => 'webmaster@dev.com'],
+            ['email' => 'teltech@sgpj.com'],
             [
                 'name' => 'WebMaster',
-                'password' => Hash::make('admin'),
+                'password' => Hash::make('admin123'),
             ]
         );
-    }
+    } }
+}
 }
