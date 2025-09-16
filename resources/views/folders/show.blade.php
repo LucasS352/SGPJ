@@ -39,14 +39,13 @@
                                 <td>{{ $p->valor_causa }}</td>
                                 <td>{{ $p->status }}</td>
                                 <td>
-                                    {{-- Form para editar observação --}}
-                                    <form method="POST" action="{{ route('pastas.updateProcesso', [$folder, $p]) }}">
-                                        @csrf
-                                        @method('PATCH')
-                                        <input type="text" name="observation" class="form-control"
-                                               value="{{ $p->pivot->observation ?? '' }}" placeholder="Observação">
-                                        <button type="submit" class="btn btn-sm btn-primary mt-1">Salvar</button>
-                                    </form>
+                                    {{-- Botão que abre o modal --}}
+                                    <button type="button" class="btn btn-sm btn-info" 
+                                            data-bs-toggle="modal" data-bs-target="#observationModal"
+                                            data-id="{{ $p->id }}" 
+                                            data-observation="{{ $p->pivot->observation ?? '' }}">
+                                        Observação
+                                    </button>
                                 </td>
                                 <td>
                                     {{-- Form para remover processo --}}
@@ -68,4 +67,52 @@
 
     <a href="{{ route('pastas.index') }}" class="btn btn-secondary mt-3">← Voltar</a>
 </div>
+
+{{-- MODAL PARA EDIÇÃO DE OBSERVAÇÃO --}}
+<div class="modal fade" id="observationModal" tabindex="-1" aria-labelledby="observationModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="observationModalLabel">Editar Observação</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <form id="observationForm" method="POST" action="">
+                @csrf
+                @method('PATCH')
+                <div class="modal-body">
+                    <div class="mb-3">
+                        <label for="observation-text" class="col-form-label">Observação:</label>
+                        <textarea class="form-control" id="observation-text" name="observation" rows="5"></textarea>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+                    <button type="submit" class="btn btn-primary">Salvar</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const observationModal = document.getElementById('observationModal');
+        const observationForm = document.getElementById('observationForm');
+        const observationTextarea = document.getElementById('observation-text');
+
+        observationModal.addEventListener('show.bs.modal', function (event) {
+            const button = event.relatedTarget;
+            const processId = button.getAttribute('data-id');
+            const observation = button.getAttribute('data-observation');
+            const folderId = "{{ $folder->id }}";
+
+            // Atualiza a URL do formulário no modal
+            observationForm.action = `/pastas/${folderId}/processos/${processId}`;
+
+            // Preenche a textarea com a observação existente
+            observationTextarea.value = observation;
+        });
+    });
+</script>
+
 @endsection
